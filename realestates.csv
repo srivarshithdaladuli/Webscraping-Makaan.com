@@ -1,0 +1,981 @@
+,property_type,seller,status,rate per sqft,price,area,location,RERA
+0,1 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,162 / sq ft", 26.1 L,627 ,Isnapur,not approval by RERA
+1,2 BHK Apartment in Urbanrise On Cloud 33,Urbanrise Lifestyles Private Limited,Under Construction,"5,999 / sq ft", 66.58 L,1110 ,Bachupally,approval by RERA
+2,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 2.82 Cr,3532 ,Shamshabad,approval by RERA
+3,4 BHK Villa in Vajra Nature City,Vajra Builders And Developers,Under Construction,"7,000 / sq ft", 1.61 Cr,2300 ,Bachupally,approval by RERA
+4,1 BHK Apartment in Provident Manhattan Pods And Condos,Provident Housing Limited,Ready to move,"6,965 / sq ft", 42.49 L,610 ,Rajendra Nagar,not approval by RERA
+5,2 BHK Apartment in Dinesh Auric,Dinesh Projects,Under Construction,"4,503 / sq ft", 52.96 L,1177 ,Bachupally,approval by RERA
+6,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 70.56 L,1238 ,Manikonda,approval by RERA
+7,2 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 62.14 L,1295 ,Kollur,approval by RERA
+8,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.36 Cr,3435 ,Hyder Nagar,approval by RERA
+9,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 96.73 L,1935 ,Bachupally,approval by RERA
+10,3 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 92.04 L,1770 ,Bandlaguda Jagir,approval by RERA
+11,3 BHK Villa in N Square West Woods,N Square Projects,Under Construction,"3,847 / sq ft", 1.5 Cr,3900 ,Kollur,approval by RERA
+12,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.17 Cr,1505 ,Begumpet,approval by RERA
+13,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,322 / sq ft", 71 L,1335 ,Tukkuguda,approval by RERA
+14,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 2.47 Cr,2475 ,Hitech City,approval by RERA
+15,3 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,726 / sq ft", 1.66 Cr,2470 ,LB Nagar,approval by RERA
+16,4 BHK Apartment in Hallmark Treasor,Hallmark Builders,Under Construction,"6,999 / sq ft", 3.55 Cr,5080 ,Gandipet,approval by RERA
+17,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.19 Cr,1770 ,Kondapur,approval by RERA
+18,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 1.25 Cr,1670 ,Nanakramguda,approval by RERA
+19,3 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 5.22 Cr,2900 ,Narsingi,approval by RERA
+20,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.84 Cr,1945 ,Padmarao Nagar,approval by RERA
+21,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.19 Cr,1833 ,Nallagandla Gachibowli,not approval by RERA
+22,3 BHK Apartment in Merlion Galaxia,Merlion Builders,Under Construction,"5,000 / sq ft", 77.51 L,1551 ,Pragathi Nagar Kukatpally,approval by RERA
+23,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 99.58 L,1510 ,Narsingi,approval by RERA
+24,4 BHK Villa in NDR Vipasa,NDR Developers,Under Construction,"7,499 / sq ft", 2.49 Cr,3325 ,Shankarpalli,approval by RERA
+25,3 BHK Apartment in Ayati Hill Top,Ayati Properties,Under Construction,"5,800 / sq ft", 95.23 L,1642 ,Bandlaguda Jagir,approval by RERA
+26,2 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 62.9 L,1210 ,Miyapur,approval by RERA
+27,3 BHK Apartment in Tribhuja Tribhuja,Tribhuja Realty,Under Construction,"3,399 / sq ft", 66.79 L,1965 ,Kollur,approval by RERA
+28,3 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 87.4 L,1900 ,Kollur,approval by RERA
+29,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.36 Cr,3435 ,Hyder Nagar,approval by RERA
+30,3 BHK Apartment in BSCPL Bollineni Bion,BSCPL Infrastructure Ltd,Under Construction,"10,017 / sq ft", 1.96 Cr,1965 ,Kondapur,approval by RERA
+31,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.47 Cr,2545 ,Yapral,approval by RERA
+32,4 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 5.13 Cr,4280 ,Osman Nagar,approval by RERA
+33,3 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,802 / sq ft", 78.23 L,1630 ,Chengicherla,approval by RERA
+34,2 BHK Apartment in Vasavi Urban,Vasavi Group,Under Construction,"4,800 / sq ft", 42 L,875 ,Bachupally,approval by RERA
+35,2 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 74.7 L,1437 ,Bandlaguda Jagir,approval by RERA
+36,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 71.08 L,1422 ,Mallampet,approval by RERA
+37,2 BHK Apartment in Rami Reddy Laxmi Ram Haran,Ramireddy Constructions,Under Construction,"8,184 / sq ft", 96 L,1173 ,Attapur,approval by RERA
+38,3 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,656 / sq ft", 2.43 Cr,2285 ,Shaikpet,not approval by RERA
+39,2 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"3,728 / sq ft", 43.73 L,1173 ,Isnapur,not approval by RERA
+40,3 BHK Apartment in Urbanrise On Cloud 33,Urbanrise Lifestyles Private Limited,Under Construction,"5,999 / sq ft", 97 L,1617 ,Bachupally,approval by RERA
+41,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 3.13 Cr,3923 ,Shamshabad,approval by RERA
+42,3 BHK Apartment in Vajra The Royal Park,Vajra Builders And Developers,Under Construction,"4,200 / sq ft", 64.47 L,1535 ,Bowrampet,approval by RERA
+43,1 RK Studio Apartment in Provident Manhattan Pods And Condos,Provident Housing Limited,Ready to move,"6,971 / sq ft", 26.49 L,380 ,Rajendra Nagar,not approval by RERA
+44,2 BHK Apartment in Dinesh Auric,Dinesh Projects,Under Construction,"4,504 / sq ft", 46.75 L,1039 ,Bachupally,approval by RERA
+45,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 75.18 L,1319 ,Manikonda,approval by RERA
+46,2 BHK Apartment in IRA M3,Ira Reality,Under Construction,"4,500 / sq ft", 49.72 L,1105 ,Kollur,approval by RERA
+47,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.13 Cr,3094 ,Hyder Nagar,approval by RERA
+48,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 1.11 Cr,2223 ,Bachupally,approval by RERA
+49,2 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 64.74 L,1245 ,Bandlaguda Jagir,approval by RERA
+50,3 BHK Villa in N Square West Woods,N Square Projects,Under Construction,"3,847 / sq ft", 1 Cr,2600 ,Kollur,approval by RERA
+51,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.33 Cr,1710 ,Begumpet,approval by RERA
+52,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,322 / sq ft", 72.6 L,1365 ,Tukkuguda,approval by RERA
+53,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.34 Cr,3350 ,Hitech City,approval by RERA
+54,3 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,837 / sq ft", 1.26 Cr,1845 ,LB Nagar,approval by RERA
+55,3 BHK Apartment in Hallmark Treasor,Hallmark Builders,Under Construction,"6,999 / sq ft", 2.68 Cr,3830 ,Gandipet,approval by RERA
+56,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.5 Cr,2224 ,Kondapur,approval by RERA
+57,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 2.24 Cr,3000 ,Nanakramguda,approval by RERA
+58,4 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 6.4 Cr,3560 ,Narsingi,approval by RERA
+59,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.79 Cr,1885 ,Padmarao Nagar,approval by RERA
+60,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 84.09 L,1294 ,Nallagandla Gachibowli,not approval by RERA
+61,3 BHK Apartment in Merlion Galaxia,Merlion Builders,Under Construction,"5,000 / sq ft", 92.66 L,1854 ,Pragathi Nagar Kukatpally,approval by RERA
+62,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 1.23 Cr,1875 ,Narsingi,approval by RERA
+63,3 BHK Apartment in Ayati Hill Top,Ayati Properties,Under Construction,"5,800 / sq ft", 92.1 L,1588 ,Bandlaguda Jagir,approval by RERA
+64,3 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 1 Cr,1940 ,Miyapur,approval by RERA
+65,3 BHK Apartment in Tribhuja Tribhuja,Tribhuja Realty,Under Construction,"3,399 / sq ft", 58.97 L,1735 ,Kollur,approval by RERA
+66,3 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 1.11 Cr,2425 ,Kollur,approval by RERA
+67,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.36 Cr,3435 ,Hyder Nagar,approval by RERA
+68,3 BHK Apartment in BSCPL Bollineni Bion,BSCPL Infrastructure Ltd,Under Construction,"10,123 / sq ft", 2.31 Cr,2290 ,Kondapur,approval by RERA
+69,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.47 Cr,2545 ,Yapral,approval by RERA
+70,4 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 4.52 Cr,3773 ,Osman Nagar,approval by RERA
+71,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 62.92 L,1311 ,Chengicherla,approval by RERA
+72,2 BHK Apartment in Vasavi Urban,Vasavi Group,Under Construction,"4,410 / sq ft", 43 L,975 ,Bachupally,approval by RERA
+73,3 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 99.24 L,1909 ,Bandlaguda Jagir,approval by RERA
+74,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 77.83 L,1557 ,Mallampet,approval by RERA
+75,3 BHK Apartment in Rami Reddy Laxmi Ram Haran,Ramireddy Constructions,Under Construction,"7,878 / sq ft", 1.4 Cr,1777 ,Attapur,approval by RERA
+76,2 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"9,987 / sq ft", 1.49 Cr,1495 ,Shaikpet,not approval by RERA
+77,1 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,170 / sq ft", 25.15 L,603 ,Isnapur,not approval by RERA
+78,4 BHK Apartment in Urbanrise On Cloud 33,Urbanrise Lifestyles Private Limited,Under Construction,"5,999 / sq ft", 1.14 Cr,1914 ,Bachupally,approval by RERA
+79,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 3.13 Cr,3920 ,Shamshabad,approval by RERA
+80,2 BHK Apartment in Vajra The Royal Park,Vajra Builders And Developers,Under Construction,"4,200 / sq ft", 53.55 L,1275 ,Bowrampet,approval by RERA
+81,1 RK Studio Apartment in Provident Kenworth,Provident Housing Limited,Ready to move,"7,121 / sq ft", 26.99 L,379 ,Rajendra Nagar,not approval by RERA
+82,3 BHK Apartment in Dinesh Auric,Dinesh Projects,Under Construction,"4,502 / sq ft", 81.89 L,1820 ,Bachupally,approval by RERA
+83,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 82.59 L,1449 ,Manikonda,approval by RERA
+84,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 76.54 L,1595 ,Kollur,approval by RERA
+85,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.76 Cr,2560 ,Hyder Nagar,approval by RERA
+86,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 83.63 L,1673 ,Bachupally,approval by RERA
+87,3 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 99.06 L,1905 ,Bandlaguda Jagir,approval by RERA
+88,3 BHK Apartment in N Square Shoolin City,N Square Projects,Under Construction,"3,700 / sq ft", 54.76 L,1480 ,Shankarpalli,approval by RERA
+89,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 87.36 L,1120 ,Begumpet,approval by RERA
+90,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,319 / sq ft", 75.26 L,1415 ,Tukkuguda,approval by RERA
+91,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.56 Cr,3575 ,Hitech City,approval by RERA
+92,3 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,874 / sq ft", 1.16 Cr,1700 ,LB Nagar,approval by RERA
+93,3 BHK Apartment in Hallmark Treasor,Hallmark Builders,Under Construction,"7,003 / sq ft", 1.18 Cr,1695 ,Gandipet,approval by RERA
+94,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.5 Cr,2235 ,Kondapur,approval by RERA
+95,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 1.5 Cr,2010 ,Nanakramguda,approval by RERA
+96,3 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 5.23 Cr,2908 ,Narsingi,approval by RERA
+97,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.66 Cr,1755 ,Padmarao Nagar,approval by RERA
+98,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 88.25 L,1358 ,Nallagandla Gachibowli,not approval by RERA
+99,2 BHK Apartment in Merlion Galaxia,Merlion Builders,Under Construction,"5,000 / sq ft", 63.75 L,1275 ,Pragathi Nagar Kukatpally,approval by RERA
+100,1 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,432 / sq ft", 25.8 L,582 ,Isnapur,not approval by RERA
+101,2 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,233 / sq ft", 40.6 L,959 ,Isnapur,not approval by RERA
+102,2 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,304 / sq ft", 33.75 L,784 ,Isnapur,not approval by RERA
+103,1 BHK Apartment in MKT Aspira Wondur & White Rock,MKT Praneeth Homes,Ready to move,"4,477 / sq ft", 24.4 L,545 ,Isnapur,not approval by RERA
+104,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 2.79 Cr,3499 ,Shamshabad,approval by RERA
+105,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 3.1 Cr,3886 ,Shamshabad,approval by RERA
+106,4 BHK Villa in Sreenidhi Luxury Park 2,Phoenix Group,Under Construction,"8,000 / sq ft", 3.14 Cr,3937 ,Shamshabad,approval by RERA
+107,3 BHK Apartment in Dinesh Auric,Dinesh Projects,Under Construction,"4,503 / sq ft", 55.43 L,1232 ,Bachupally,approval by RERA
+108,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.1 Cr,1932 ,Manikonda,approval by RERA
+109,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 95.53 L,1676 ,Manikonda,approval by RERA
+110,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.09 Cr,1927 ,Manikonda,approval by RERA
+111,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 70.56 L,1238 ,Manikonda,approval by RERA
+112,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 75.18 L,1319 ,Manikonda,approval by RERA
+113,2 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 82.59 L,1449 ,Manikonda,approval by RERA
+114,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.1 Cr,1932 ,Manikonda,approval by RERA
+115,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.09 Cr,1926 ,Manikonda,approval by RERA
+116,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 95.53 L,1676 ,Manikonda,approval by RERA
+117,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.09 Cr,1927 ,Manikonda,approval by RERA
+118,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 1.09 Cr,1926 ,Manikonda,approval by RERA
+119,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 98.72 L,1732 ,Manikonda,approval by RERA
+120,3 BHK Apartment in Anuhar Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,700 / sq ft", 98.72 L,1732 ,Manikonda,approval by RERA
+121,2 BHK Apartment in IRA M3,Ira Reality,Under Construction,"4,500 / sq ft", 49.72 L,1105 ,Kollur,approval by RERA
+122,2 BHK Apartment in IRA M3,Ira Reality,Under Construction,"4,500 / sq ft", 49.5 L,1100 ,Kollur,approval by RERA
+123,2 BHK Apartment in IRA M3,Ira Reality,Under Construction,"4,500 / sq ft", 49.5 L,1100 ,Kollur,approval by RERA
+124,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 1.05 Cr,2195 ,Kollur,approval by RERA
+125,2 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 62.14 L,1295 ,Kollur,approval by RERA
+126,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 76.54 L,1595 ,Kollur,approval by RERA
+127,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 1.05 Cr,2195 ,Kollur,approval by RERA
+128,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 71.74 L,1495 ,Kollur,approval by RERA
+129,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 71.74 L,1495 ,Kollur,approval by RERA
+130,3 BHK Apartment in IRA Aspiration,Ira Reality,Under Construction,"4,799 / sq ft", 90.94 L,1895 ,Kollur,approval by RERA
+131,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.4 Cr,2040 ,Hyder Nagar,approval by RERA
+132,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.02 Cr,2939 ,Hyder Nagar,approval by RERA
+133,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.39 Cr,2020 ,Hyder Nagar,approval by RERA
+134,2 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 92.79 L,1345 ,Hyder Nagar,approval by RERA
+135,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.89 Cr,2740 ,Hyder Nagar,approval by RERA
+136,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.54 Cr,2240 ,Hyder Nagar,approval by RERA
+137,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.5 Cr,2179 ,Hyder Nagar,approval by RERA
+138,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2 Cr,2900 ,Hyder Nagar,approval by RERA
+139,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.26 Cr,1837 ,Hyder Nagar,approval by RERA
+140,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2 Cr,2900 ,Hyder Nagar,approval by RERA
+141,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.26 Cr,1837 ,Hyder Nagar,approval by RERA
+142,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.36 Cr,1980 ,Hyder Nagar,approval by RERA
+143,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.01 Cr,2920 ,Hyder Nagar,approval by RERA
+144,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.65 Cr,2392 ,Hyder Nagar,approval by RERA
+145,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.64 Cr,2388 ,Hyder Nagar,approval by RERA
+146,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.5 Cr,3624 ,Hyder Nagar,approval by RERA
+147,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.31 Cr,3360 ,Hyder Nagar,approval by RERA
+148,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.77 Cr,2570 ,Hyder Nagar,approval by RERA
+149,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.61 Cr,2345 ,Hyder Nagar,approval by RERA
+150,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.44 Cr,2100 ,Hyder Nagar,approval by RERA
+151,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.24 Cr,1810 ,Hyder Nagar,approval by RERA
+152,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.82 Cr,2640 ,Hyder Nagar,approval by RERA
+153,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.88 Cr,2733 ,Hyder Nagar,approval by RERA
+154,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 1.23 Cr,1784 ,Hyder Nagar,approval by RERA
+155,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth Group,Under Construction,"6,899 / sq ft", 2.45 Cr,3554 ,Hyder Nagar,approval by RERA
+156,2 BHK Apartment in Praneeth APR Pranav Townsquare,Praneeth Group,Under Construction,"5,900 / sq ft", 80 L,1356 ,Bachupally,approval by RERA
+157,2 BHK Apartment in Praneeth APR Pranav Townsquare,Praneeth Group,Under Construction,"5,398 / sq ft", 62.61 L,1160 ,Bachupally,approval by RERA
+158,2 BHK Apartment in Praneeth Pranav Flora,Praneeth Group,Under Construction,"4,298 / sq ft", 49.55 L,1153 ,Bahadurpally,approval by RERA
+159,2 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 71.4 L,1275 ,Bachupally,approval by RERA
+160,2 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 62.83 L,1122 ,Bachupally,approval by RERA
+161,3 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 87.24 L,1558 ,Bachupally,approval by RERA
+162,3 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 85.34 L,1524 ,Bachupally,approval by RERA
+163,2 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 66.64 L,1190 ,Bachupally,approval by RERA
+164,3 BHK Apartment in Risinia Oyster,Risinia Builders,Under Construction,"5,600 / sq ft", 76.44 L,1365 ,Bachupally,approval by RERA
+165,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 92.13 L,1843 ,Bachupally,approval by RERA
+166,2 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 63.03 L,1261 ,Bachupally,approval by RERA
+167,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 82.53 L,1651 ,Bachupally,approval by RERA
+168,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 1.06 Cr,2126 ,Bachupally,approval by RERA
+169,2 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 69.38 L,1388 ,Bachupally,approval by RERA
+170,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 76.33 L,1527 ,Bachupally,approval by RERA
+171,3 BHK Apartment in Risinia Skyon,Risinia Builders,Under Construction,"4,999 / sq ft", 96.38 L,1928 ,Bachupally,approval by RERA
+172,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 53.01 L,1395 ,Adibatla,approval by RERA
+173,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 48.83 L,1285 ,Adibatla,approval by RERA
+174,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"4,184 / sq ft", 49.99 L,1195 ,Adibatla,approval by RERA
+175,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 64.03 L,1685 ,Adibatla,approval by RERA
+176,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 61.75 L,1625 ,Adibatla,approval by RERA
+177,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"4,830 / sq ft", 85 L,1760 ,Adibatla,approval by RERA
+178,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 50.54 L,1330 ,Adibatla,approval by RERA
+179,2 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 78.78 L,1515 ,Bandlaguda Jagir,approval by RERA
+180,3 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 1.14 Cr,2210 ,Bandlaguda Jagir,approval by RERA
+181,2 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 65.78 L,1265 ,Bandlaguda Jagir,approval by RERA
+182,2 BHK Apartment in ELV 55 East Fort,ELV Projects,Under Construction,"5,200 / sq ft", 62.4 L,1200 ,Bandlaguda Jagir,approval by RERA
+183,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 53.01 L,1395 ,Adibatla,approval by RERA
+184,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 48.83 L,1285 ,Adibatla,approval by RERA
+185,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"4,184 / sq ft", 49.99 L,1195 ,Adibatla,approval by RERA
+186,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 64.03 L,1685 ,Adibatla,approval by RERA
+187,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 61.75 L,1625 ,Adibatla,approval by RERA
+188,3 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"4,830 / sq ft", 85 L,1760 ,Adibatla,approval by RERA
+189,2 BHK Apartment in ELV ELV Cosmopolis,ELV Projects,Under Construction,"3,800 / sq ft", 50.54 L,1330 ,Adibatla,approval by RERA
+190,2 BHK Apartment in N Square Shoolin City,N Square Projects,Under Construction,"3,700 / sq ft", 37.37 L,1010 ,Shankarpalli,approval by RERA
+191,2 BHK Apartment in N Square Shoolin City,N Square Projects,Under Construction,"3,700 / sq ft", 40.7 L,1100 ,Shankarpalli,approval by RERA
+192,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.29 Cr,1660 ,Begumpet,approval by RERA
+193,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.47 Cr,1885 ,Begumpet,approval by RERA
+194,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.05 Cr,1356 ,Begumpet,approval by RERA
+195,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 80.41 L,1031 ,Begumpet,approval by RERA
+196,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.16 Cr,1495 ,Begumpet,approval by RERA
+197,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 96.33 L,1235 ,Begumpet,approval by RERA
+198,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.37 Cr,1765 ,Begumpet,approval by RERA
+199,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 95.94 L,1230 ,Begumpet,approval by RERA
+200,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.19 Cr,1535 ,Begumpet,approval by RERA
+201,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 94.38 L,1210 ,Begumpet,approval by RERA
+202,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.2 Cr,1540 ,Begumpet,approval by RERA
+203,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.15 Cr,1475 ,Begumpet,approval by RERA
+204,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.14 Cr,1470 ,Begumpet,approval by RERA
+205,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.41 Cr,1810 ,Begumpet,approval by RERA
+206,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1 Cr,1285 ,Begumpet,approval by RERA
+207,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 88.14 L,1130 ,Begumpet,approval by RERA
+208,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.18 Cr,1520 ,Begumpet,approval by RERA
+209,3 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 1.61 Cr,2065 ,Begumpet,approval by RERA
+210,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 98.67 L,1265 ,Begumpet,approval by RERA
+211,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 93.6 L,1200 ,Begumpet,approval by RERA
+212,2 BHK Apartment in Mahaveer Palm Grove,Mahaveer Group,Under Construction,"7,800 / sq ft", 98.51 L,1263 ,Begumpet,approval by RERA
+213,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,322 / sq ft", 74.46 L,1400 ,Tukkuguda,approval by RERA
+214,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,513 / sq ft", 86 L,1560 ,Tukkuguda,approval by RERA
+215,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,319 / sq ft", 72.33 L,1360 ,Tukkuguda,approval by RERA
+216,2 BHK Apartment in Ramky Golden Circle,Ramky Estates Farms Ltd,Under Construction,"5,319 / sq ft", 78.19 L,1470 ,Tukkuguda,approval by RERA
+217,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 2.42 Cr,2427 ,Hitech City,approval by RERA
+218,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 4.35 Cr,4366 ,Hitech City,approval by RERA
+219,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.69 Cr,3700 ,Hitech City,approval by RERA
+220,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 2.69 Cr,2700 ,Hitech City,approval by RERA
+221,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.46 Cr,3467 ,Hitech City,approval by RERA
+222,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 2.74 Cr,2750 ,Hitech City,approval by RERA
+223,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.81 Cr,3826 ,Hitech City,approval by RERA
+224,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.29 Cr,3300 ,Hitech City,approval by RERA
+225,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 4.84 Cr,4850 ,Hitech City,approval by RERA
+226,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 4.83 Cr,4849 ,Hitech City,approval by RERA
+227,4 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 3.79 Cr,3800 ,Hitech City,approval by RERA
+228,3 BHK Apartment in Shreemukh Namitha 360 Life,Shreemukh Namitha Homes,Under Construction,"9,980 / sq ft", 2.59 Cr,2600 ,Hitech City,approval by RERA
+229,3 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,765 / sq ft", 1.49 Cr,2205 ,LB Nagar,approval by RERA
+230,2 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,907 / sq ft", 89.38 L,1295 ,LB Nagar,approval by RERA
+231,3 BHK Apartment in Navya Uvera Heights,Navya Developers,Under Construction,"6,804 / sq ft", 1.35 Cr,1995 ,LB Nagar,approval by RERA
+232,3 BHK Apartment in Provident Kenworth,Provident Housing Limited,Ready to move,"6,159 / sq ft", 64.49 L,1047 ,Rajendra Nagar,not approval by RERA
+233,1 BHK Apartment in Provident Kenworth,Provident Housing Limited,Ready to move,"6,777 / sq ft", 40.19 L,593 ,Rajendra Nagar,not approval by RERA
+234,4 BHK Apartment in Hallmark Treasor,Hallmark Builders,Under Construction,"6,999 / sq ft", 2.47 Cr,3530 ,Gandipet,approval by RERA
+235,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.29 Cr,1922 ,Kondapur,approval by RERA
+236,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.65 Cr,2451 ,Kondapur,approval by RERA
+237,3 BHK Apartment in GHR Titania,GHR Infra,Under Construction,"6,749 / sq ft", 1.19 Cr,1766 ,Kondapur,approval by RERA
+238,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 2.15 Cr,2880 ,Nanakramguda,approval by RERA
+239,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 1.73 Cr,2320 ,Nanakramguda,approval by RERA
+240,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 1.51 Cr,2020 ,Nanakramguda,approval by RERA
+241,3 BHK Apartment in Sumadhura The Olympus,Sumadhura Infracon Pvt Ltd,Under Construction,"7,499 / sq ft", 1.7 Cr,2270 ,Nanakramguda,approval by RERA
+242,4 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 8.03 Cr,4464 ,Narsingi,approval by RERA
+243,5 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 9.39 Cr,5222 ,Narsingi,approval by RERA
+244,4 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 7.99 Cr,4444 ,Narsingi,approval by RERA
+245,5 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 9.66 Cr,5371 ,Narsingi,approval by RERA
+246,4 BHK Villa in Vessella Meadows,Vessella Group,Under Construction,"18,000 / sq ft", 6.42 Cr,3567 ,Narsingi,approval by RERA
+247,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.57 Cr,1655 ,Padmarao Nagar,approval by RERA
+248,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 2.02 Cr,2135 ,Padmarao Nagar,approval by RERA
+249,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.61 Cr,1695 ,Padmarao Nagar,approval by RERA
+250,3 BHK Apartment in Bridge Paramount,Bridge Constructions Private Limited,Under Construction,"9,500 / sq ft", 1.8 Cr,1895 ,Padmarao Nagar,approval by RERA
+251,4 BHK Apartment in Bridge Aquaria,Bridge Constructions Private Limited,Ready to move,"7,000 / sq ft", 3.94 Cr,5638 ,Kondapur,not approval by RERA
+252,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 79.67 L,1226 ,Nallagandla Gachibowli,not approval by RERA
+253,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 88.12 L,1356 ,Nallagandla Gachibowli,not approval by RERA
+254,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 82.86 L,1275 ,Nallagandla Gachibowli,not approval by RERA
+255,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.08 Cr,1675 ,Nallagandla Gachibowli,not approval by RERA
+256,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.04 Cr,1606 ,Nallagandla Gachibowli,not approval by RERA
+257,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 82.6 L,1271 ,Nallagandla Gachibowli,not approval by RERA
+258,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 87.93 L,1353 ,Nallagandla Gachibowli,not approval by RERA
+259,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.04 Cr,1610 ,Nallagandla Gachibowli,not approval by RERA
+260,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.22 Cr,1879 ,Nallagandla Gachibowli,not approval by RERA
+261,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 99.1 L,1525 ,Nallagandla Gachibowli,not approval by RERA
+262,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.2 Cr,1850 ,Nallagandla Gachibowli,not approval by RERA
+263,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 81.82 L,1259 ,Nallagandla Gachibowli,not approval by RERA
+264,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 99.1 L,1525 ,Nallagandla Gachibowli,not approval by RERA
+265,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.16 Cr,1791 ,Nallagandla Gachibowli,not approval by RERA
+266,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 82.21 L,1265 ,Nallagandla Gachibowli,not approval by RERA
+267,3 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 1.08 Cr,1664 ,Nallagandla Gachibowli,not approval by RERA
+268,2 BHK Apartment in Trishala Saffron Sanathan,Trishala Infrastructure,Ready to move,"6,499 / sq ft", 82.08 L,1263 ,Nallagandla Gachibowli,not approval by RERA
+269,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 98.52 L,1642 ,Nallagandla Gachibowli,approval by RERA
+270,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 94.14 L,1569 ,Nallagandla Gachibowli,approval by RERA
+271,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 1.02 Cr,1707 ,Nallagandla Gachibowli,approval by RERA
+272,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 90.84 L,1514 ,Nallagandla Gachibowli,approval by RERA
+273,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 86.82 L,1447 ,Nallagandla Gachibowli,approval by RERA
+274,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 66.96 L,1116 ,Nallagandla Gachibowli,approval by RERA
+275,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 1.05 Cr,1752 ,Nallagandla Gachibowli,approval by RERA
+276,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 73.68 L,1228 ,Nallagandla Gachibowli,approval by RERA
+277,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 93.66 L,1561 ,Nallagandla Gachibowli,approval by RERA
+278,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 92.58 L,1543 ,Nallagandla Gachibowli,approval by RERA
+279,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 84.24 L,1404 ,Nallagandla Gachibowli,approval by RERA
+280,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 96.84 L,1614 ,Nallagandla Gachibowli,approval by RERA
+281,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 71.76 L,1196 ,Nallagandla Gachibowli,approval by RERA
+282,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 1.14 Cr,1915 ,Nallagandla Gachibowli,approval by RERA
+283,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 79.5 L,1325 ,Nallagandla Gachibowli,approval by RERA
+284,3 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 1.07 Cr,1789 ,Nallagandla Gachibowli,approval by RERA
+285,2 BHK Apartment in Trishala Saffron Elite,Trishala Infrastructure,Under Construction,"6,000 / sq ft", 75.36 L,1256 ,Nallagandla Gachibowli,approval by RERA
+286,2 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 84.74 L,1285 ,Narsingi,approval by RERA
+287,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 1.08 Cr,1650 ,Narsingi,approval by RERA
+288,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 1.21 Cr,1845 ,Narsingi,approval by RERA
+289,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 99.91 L,1515 ,Narsingi,approval by RERA
+290,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 1.07 Cr,1625 ,Narsingi,approval by RERA
+291,3 BHK Apartment in Riddhi Saphire,Riddhi Group,Under Construction,"6,595 / sq ft", 1.35 Cr,2055 ,Narsingi,approval by RERA
+292,3 BHK Villa in Trishala The Village,Trishala Infrastructure,Under Construction,"8,516 / sq ft", 2.27 Cr,2677 ,Shamshabad,approval by RERA
+293,3 BHK Apartment in Vajra The Royal Park,Vajra Builders And Developers,Under Construction,"4,200 / sq ft", 70.35 L,1675 ,Bowrampet,approval by RERA
+294,2 BHK Apartment in Riddhi Golden Nest,Riddhi Group,Under Construction,"6,300 / sq ft", 80.95 L,1285 ,Puppalaguda,approval by RERA
+295,3 BHK Apartment in Riddhi Golden Nest,Riddhi Group,Under Construction,"6,300 / sq ft", 1.07 Cr,1700 ,Puppalaguda,approval by RERA
+296,2 BHK Apartment in Riddhi Golden Nest,Riddhi Group,Under Construction,"6,300 / sq ft", 81.77 L,1298 ,Puppalaguda,approval by RERA
+297,3 BHK Apartment in Riddhi Golden Nest,Riddhi Group,Under Construction,"6,300 / sq ft", 1.04 Cr,1665 ,Puppalaguda,approval by RERA
+298,3 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 89.16 L,1715 ,Miyapur,approval by RERA
+299,3 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 84.48 L,1625 ,Miyapur,approval by RERA
+300,2 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 77.72 L,1495 ,Miyapur,approval by RERA
+301,2 BHK Apartment in Aspire Spaces Ameya,Aspire Spaces Private Limited,Under Construction,"5,199 / sq ft", 69.14 L,1330 ,Miyapur,approval by RERA
+302,2 BHK Apartment in Tribhuja Tribhuja,Tribhuja Realty,Under Construction,"3,399 / sq ft", 44.86 L,1320 ,Kollur,approval by RERA
+303,2 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 63.71 L,1385 ,Kollur,approval by RERA
+304,3 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 86.25 L,1875 ,Kollur,approval by RERA
+305,2 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 71.3 L,1550 ,Kollur,approval by RERA
+306,3 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 83.72 L,1820 ,Kollur,approval by RERA
+307,2 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 65.32 L,1420 ,Kollur,approval by RERA
+308,3 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 1.01 Cr,2200 ,Kollur,approval by RERA
+309,2 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 64.4 L,1400 ,Kollur,approval by RERA
+310,2 BHK Apartment in Signature Altius,Signature Avenues,Under Construction,"4,600 / sq ft", 75.21 L,1635 ,Kollur,approval by RERA
+311,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.13 Cr,3094 ,Hyder Nagar,approval by RERA
+312,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.13 Cr,3094 ,Hyder Nagar,approval by RERA
+313,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.36 Cr,3435 ,Hyder Nagar,approval by RERA
+314,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.36 Cr,3435 ,Hyder Nagar,approval by RERA
+315,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.13 Cr,3094 ,Hyder Nagar,approval by RERA
+316,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.13 Cr,3094 ,Hyder Nagar,approval by RERA
+317,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.76 Cr,2560 ,Hyder Nagar,approval by RERA
+318,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.76 Cr,2560 ,Hyder Nagar,approval by RERA
+319,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.4 Cr,2040 ,Hyder Nagar,approval by RERA
+320,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.4 Cr,2040 ,Hyder Nagar,approval by RERA
+321,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.02 Cr,2939 ,Hyder Nagar,approval by RERA
+322,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.02 Cr,2939 ,Hyder Nagar,approval by RERA
+323,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.39 Cr,2020 ,Hyder Nagar,approval by RERA
+324,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.39 Cr,2020 ,Hyder Nagar,approval by RERA
+325,2 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 92.79 L,1345 ,Hyder Nagar,approval by RERA
+326,2 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 92.79 L,1345 ,Hyder Nagar,approval by RERA
+327,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.89 Cr,2740 ,Hyder Nagar,approval by RERA
+328,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.89 Cr,2740 ,Hyder Nagar,approval by RERA
+329,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.54 Cr,2240 ,Hyder Nagar,approval by RERA
+330,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.54 Cr,2240 ,Hyder Nagar,approval by RERA
+331,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.5 Cr,2179 ,Hyder Nagar,approval by RERA
+332,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.5 Cr,2179 ,Hyder Nagar,approval by RERA
+333,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2 Cr,2900 ,Hyder Nagar,approval by RERA
+334,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2 Cr,2900 ,Hyder Nagar,approval by RERA
+335,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.26 Cr,1837 ,Hyder Nagar,approval by RERA
+336,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.26 Cr,1837 ,Hyder Nagar,approval by RERA
+337,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.36 Cr,1980 ,Hyder Nagar,approval by RERA
+338,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.36 Cr,1980 ,Hyder Nagar,approval by RERA
+339,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.01 Cr,2920 ,Hyder Nagar,approval by RERA
+340,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.01 Cr,2920 ,Hyder Nagar,approval by RERA
+341,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.65 Cr,2392 ,Hyder Nagar,approval by RERA
+342,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.65 Cr,2392 ,Hyder Nagar,approval by RERA
+343,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.64 Cr,2388 ,Hyder Nagar,approval by RERA
+344,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.64 Cr,2388 ,Hyder Nagar,approval by RERA
+345,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.5 Cr,3624 ,Hyder Nagar,approval by RERA
+346,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.5 Cr,3624 ,Hyder Nagar,approval by RERA
+347,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.31 Cr,3360 ,Hyder Nagar,approval by RERA
+348,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.31 Cr,3360 ,Hyder Nagar,approval by RERA
+349,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.77 Cr,2570 ,Hyder Nagar,approval by RERA
+350,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.77 Cr,2570 ,Hyder Nagar,approval by RERA
+351,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.61 Cr,2345 ,Hyder Nagar,approval by RERA
+352,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.61 Cr,2345 ,Hyder Nagar,approval by RERA
+353,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.44 Cr,2100 ,Hyder Nagar,approval by RERA
+354,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.44 Cr,2100 ,Hyder Nagar,approval by RERA
+355,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.24 Cr,1810 ,Hyder Nagar,approval by RERA
+356,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.24 Cr,1810 ,Hyder Nagar,approval by RERA
+357,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.82 Cr,2640 ,Hyder Nagar,approval by RERA
+358,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.82 Cr,2640 ,Hyder Nagar,approval by RERA
+359,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.88 Cr,2733 ,Hyder Nagar,approval by RERA
+360,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.88 Cr,2733 ,Hyder Nagar,approval by RERA
+361,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.23 Cr,1784 ,Hyder Nagar,approval by RERA
+362,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 1.23 Cr,1784 ,Hyder Nagar,approval by RERA
+363,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.45 Cr,3554 ,Hyder Nagar,approval by RERA
+364,3 BHK Apartment in Praneeth Praneeth KKRs Pranav Jaitra,Praneeth,Under Construction,"6,899 / sq ft", 2.45 Cr,3554 ,Hyder Nagar,approval by RERA
+365,3 BHK Villa in Praneeth Praneeth Pranav Knightwoods,Praneeth,Under Construction,"7,900 / sq ft", 1.58 Cr,2000 ,Ramachandrapuram,approval by RERA
+366,3 BHK Villa in Praneeth Praneeth Pranav Knightwoods,Praneeth,Under Construction,"7,900 / sq ft", 1.58 Cr,2000 ,Ramachandrapuram,approval by RERA
+367,3 BHK Villa in Praneeth Praneeth Pranav Knightwoods,Praneeth,Under Construction,"8,223 / sq ft", 1.48 Cr,1800 ,Ramachandrapuram,approval by RERA
+368,3 BHK Villa in Praneeth Praneeth Pranav Knightwoods,Praneeth,Under Construction,"7,900 / sq ft", 1.58 Cr,2000 ,Ramachandrapuram,approval by RERA
+369,3 BHK Villa in Praneeth Praneeth Pranav Knightwoods,Praneeth,Under Construction,"8,223 / sq ft", 1.48 Cr,1800 ,Ramachandrapuram,approval by RERA
+370,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.62 Cr,2810 ,Manikonda,approval by RERA
+371,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 98.83 L,1704 ,Manikonda,approval by RERA
+372,2 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 83.52 L,1440 ,Manikonda,approval by RERA
+373,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.07 Cr,1847 ,Manikonda,approval by RERA
+374,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.03 Cr,1780 ,Manikonda,approval by RERA
+375,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.46 Cr,2521 ,Manikonda,approval by RERA
+376,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.17 Cr,2019 ,Manikonda,approval by RERA
+377,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.05 Cr,1821 ,Manikonda,approval by RERA
+378,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.13 Cr,1960 ,Manikonda,approval by RERA
+379,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.05 Cr,1825 ,Manikonda,approval by RERA
+380,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.01 Cr,1758 ,Manikonda,approval by RERA
+381,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.09 Cr,1896 ,Manikonda,approval by RERA
+382,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.06 Cr,1830 ,Manikonda,approval by RERA
+383,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.04 Cr,1803 ,Manikonda,approval by RERA
+384,2 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 77.83 L,1342 ,Manikonda,approval by RERA
+385,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.08 Cr,1872 ,Manikonda,approval by RERA
+386,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.12 Cr,1941 ,Manikonda,approval by RERA
+387,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 93.72 L,1616 ,Manikonda,approval by RERA
+388,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.57 Cr,2712 ,Manikonda,approval by RERA
+389,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.03 Cr,1785 ,Manikonda,approval by RERA
+390,3 BHK Apartment in Anuhar Rami Reddy Towers,Anuhar Homes Pvt Ltd,Under Construction,"5,800 / sq ft", 1.43 Cr,2468 ,Manikonda,approval by RERA
+391,3 BHK Apartment in BSCPL Bollineni Bion,BSCPL Infrastructure Ltd,Under Construction,"9,976 / sq ft", 1.83 Cr,1840 ,Kondapur,approval by RERA
+392,3 BHK Apartment in BSCPL Bollineni Bion,BSCPL Infrastructure Ltd,Under Construction,"9,892 / sq ft", 1.83 Cr,1855 ,Kondapur,approval by RERA
+393,4 BHK Apartment in BSCPL Bollineni Bion,BSCPL Infrastructure Ltd,Under Construction,"10,052 / sq ft", 3.36 Cr,3350 ,Kondapur,approval by RERA
+394,2 BHK Independent House,seller,Under Construction,"5,297 / sq ft", 98 L,1850 ,Patancheru,not approval by RERA
+395,2 BHK Apartment,seller,Ready to move,"6,363 / sq ft", 70 L,1100 ,Rasoolpura,not approval by RERA
+396,2 BHK Apartment,seller,Under Construction,"3,948 / sq ft", 39.68 L,1005 ,Kowkur,not approval by RERA
+397,2 BHK Independent Floor,seller,Ready to move,"4,235 / sq ft", 36 L,850 ,Alwal,not approval by RERA
+398,2 BHK Villa,seller,Under Construction,"7,333 / sq ft", 1.1 Cr,1500 ,Patancheru,not approval by RERA
+399,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.47 Cr,2545 ,Yapral,approval by RERA
+400,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.47 Cr,2545 ,Yapral,approval by RERA
+401,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.4 Cr,2420 ,Yapral,approval by RERA
+402,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.4 Cr,2420 ,Yapral,approval by RERA
+403,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.22 Cr,2105 ,Yapral,approval by RERA
+404,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.22 Cr,2105 ,Yapral,approval by RERA
+405,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.61 Cr,2780 ,Yapral,approval by RERA
+406,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.61 Cr,2780 ,Yapral,approval by RERA
+407,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.2 Cr,2070 ,Yapral,approval by RERA
+408,3 BHK Apartment in Om Sree Heights,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.2 Cr,2070 ,Yapral,approval by RERA
+409,6 BHK Independent House,seller,Ready to move,"6,222 / sq ft", 1.4 Cr,2250 ,Toli Chowki,not approval by RERA
+410,5 BHK Independent House,seller,Ready to move,"8,636 / sq ft", 4.75 Cr,5500 ,Ameerpet,not approval by RERA
+411,2 BHK Apartment in Idea Shobhanath,seller,Under Construction,"5,000 / sq ft", 60 L,1200 ,Pocharam,approval by RERA
+412,2 BHK Apartment in Praneeth Pranav Zenith,seller,Ready to move,"6,380 / sq ft", 67 L,1050 ,Bachupally,not approval by RERA
+413,3 BHK Apartment in Hallmark Treasor,seller,Under Construction,"5,529 / sq ft", 94 L,1700 ,Gandipet,approval by RERA
+414,3 BHK Apartment in Green Mark Mayfair Apartments,seller,Ready to move,"5,711 / sq ft", 1 Cr,1751 ,Tellapur,not approval by RERA
+415,2 BHK Apartment,seller,Ready to move,"6,109 / sq ft", 65 L,1064 ,Boduppal,not approval by RERA
+416,2 BHK Apartment,seller,Ready to move,"6,109 / sq ft", 65 L,1064 ,Boduppal,not approval by RERA
+417,3 BHK Apartment,seller,Ready to move,"5,333 / sq ft", 80 L,1500 ,Rasoolpura,not approval by RERA
+418,3 BHK Apartment in Archies Splendor,seller,Ready to move,"7,500 / sq ft", 1.2 Cr,1600 ,Gachibowli,not approval by RERA
+419,3 BHK Apartment in Om Sree Brilliance,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.27 Cr,2200 ,Sainikpuri,approval by RERA
+420,3 BHK Apartment in Om Sree Brilliance,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.27 Cr,2195 ,Sainikpuri,approval by RERA
+421,3 BHK Apartment in Om Sree Brilliance,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.23 Cr,2130 ,Sainikpuri,approval by RERA
+422,3 BHK Apartment in Om Sree Brilliance,Om Sree Builders And Developers,Under Construction,"5,800 / sq ft", 1.24 Cr,2140 ,Sainikpuri,approval by RERA
+423,3 BHK Apartment in Reputed Builder PVR Residency,seller,Ready to move,"5,483 / sq ft", 85 L,1550 ,Nizampet,not approval by RERA
+424,2 BHK Apartment in Vaibhavi Gayathri Vistas,seller,Ready to move,"7,068 / sq ft", 82 L,1160 ,Miyapur,not approval by RERA
+425,2 BHK Independent House,seller,Ready to move,"6,500 / sq ft", 86 L,1323 ,Rampally,not approval by RERA
+426,3 BHK Apartment in Manbhum Millennium Residency,seller,Ready to move,"8,484 / sq ft", 1.4 Cr,1650 ,West Marredpally,not approval by RERA
+427,3 BHK Apartment in Manbhum Millennium Residency,seller,Ready to move,"8,484 / sq ft", 1.4 Cr,1650 ,West Marredpally,not approval by RERA
+428,1 BHK Independent House,seller,Ready to move,"8,720 / sq ft", 75 L,860 ,Basheer Bagh,not approval by RERA
+429,1 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 45 L,900 ,Ghatkesar,not approval by RERA
+430,3 BHK Apartment in Nava White Mist,seller,Ready to move,"6,188 / sq ft", 95 L,1535 ,Kukatpally,not approval by RERA
+431,3 BHK Apartment in Sowbhagya Residency,seller,Ready to move,"5,533 / sq ft", 83 L,1500 ,APHB Colony,not approval by RERA
+432,2 BHK Apartment,seller,Ready to move,"3,363 / sq ft", 37 L,1100 ,Nizampet,not approval by RERA
+433,2 BHK Apartment,seller,Ready to move,"3,045 / sq ft", 30 L,985 ,Indresham,not approval by RERA
+434,2 BHK Apartment in Brigade Citadel,seller,Under Construction,"7,320 / sq ft", 1 Cr,1366 ,Moti Nagar,approval by RERA
+435,2 BHK Independent Floor,seller,Ready to move,"11,718 / sq ft", 1.5 Cr,1280 ,Jillelguda,not approval by RERA
+436,2 BHK Apartment in Janapriya Nile Valley,seller,Ready to move,"5,268 / sq ft", 54 L,1025 ,Miyapur,not approval by RERA
+437,2 BHK Apartment,seller,Ready to move,"5,238 / sq ft", 55 L,1050 ,Miyapur,not approval by RERA
+438,3 BHK Apartment in Accurate Wind Chimes,seller,Ready to move,"7,673 / sq ft", 1.27 Cr,1655 ,Narsingi,not approval by RERA
+439,2 BHK Apartment,seller,Ready to move,"4,800 / sq ft", 36 L,750 ,Chintalakunta,not approval by RERA
+440,2 BHK Villa,seller,Under Construction,"4,442 / sq ft", 49 L,1103 ,Sadashivpet,not approval by RERA
+441,2 BHK Independent House,seller,Ready to move,"3,534 / sq ft", 76 L,2150 ,Golconda Fort,not approval by RERA
+442,3 BHK Apartment in Fortune Heights,seller,Ready to move,"2,857 / sq ft", 40 L,1400 ,Shankarpalli,not approval by RERA
+443,2 BHK Independent House,seller,Ready to move,"4,285 / sq ft", 1.2 Cr,2800 ,Isnapur,not approval by RERA
+444,2 BHK Apartment,seller,Ready to move,"4,556 / sq ft", 38 L,834 ,B N reddy nagar,not approval by RERA
+445,3 BHK Apartment in Trust Tower 2 Residency,seller,Ready to move,"4,109 / sq ft", 60 L,1460 ,Attapur,not approval by RERA
+446,3 BHK Apartment in Reputed Builder Amrutha Valley,seller,Ready to move,"6,363 / sq ft", 1.05 Cr,1650 ,Banjara Hills,not approval by RERA
+447,3 BHK Apartment in Lodha Meridian,seller,Ready to move,"8,814 / sq ft", 1.65 Cr,1872 ,Kukatpally,not approval by RERA
+448,2 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 42.35 L,1210 ,Boduppal,not approval by RERA
+449,2 BHK Independent Floor,seller,Ready to move,"6,808 / sq ft", 80 L,1175 ,Kondapur,not approval by RERA
+450,3 BHK Villa in Swaraj Homes Yaralakshmi Residency,seller,Ready to move,"4,083 / sq ft", 98 L,2400 ,Kukatpally,not approval by RERA
+451,4 BHK Villa,seller,Under Construction,"4,535 / sq ft", 1.27 Cr,2800 ,Shankarpally Road,not approval by RERA
+452,2 BHK Apartment,seller,Ready to move,"3,500 / sq ft", 44.62 L,1275 ,Aminpur,not approval by RERA
+453,3 BHK Apartment in Janapriya Nile Valley,seller,Ready to move,"5,531 / sq ft", 65 L,1175 ,Miyapur,not approval by RERA
+454,1 BHK Independent Floor,seller,Ready to move,"5,333 / sq ft", 40 L,750 ,Abids,not approval by RERA
+455,3 BHK Apartment,seller,Under Construction,"4,904 / sq ft", 90 L,1835 ,Manikonda,not approval by RERA
+456,2 BHK Apartment,seller,Ready to move,"3,300 / sq ft", 38.11 L,1155 ,Gundlapochampalli,not approval by RERA
+457,2 BHK Apartment,seller,Ready to move,"2,499 / sq ft", 25.37 L,1015 ,Patancheru,not approval by RERA
+458,3 BHK Apartment in Elements White Riviera,seller,Under Construction,"5,396 / sq ft", 85 L,1575 ,Uppal Kalan,approval by RERA
+459,4 BHK Independent Floor,seller,Under Construction,"5,837 / sq ft", 1.45 Cr,2484 ,Aminpur,not approval by RERA
+460,2 BHK Apartment in Patel Smondo,seller,Ready to move,"7,200 / sq ft", 90 L,1250 ,Gachibowli,not approval by RERA
+461,2 BHK Apartment in Cybercity Marina Skies,seller,Ready to move,"8,491 / sq ft", 98.5 L,1160 ,Hitech City,not approval by RERA
+462,4 BHK Independent House,seller,Ready to move,"5,576 / sq ft", 1.45 Cr,2600 ,Bandlaguda Jagir,not approval by RERA
+463,4 BHK Independent Floor,seller,Under Construction,"5,837 / sq ft", 1.45 Cr,2484 ,Aminpur,not approval by RERA
+464,2 BHK Apartment,seller,Ready to move,"4,500 / sq ft", 45 L,1000 ,Suchitra,not approval by RERA
+465,5 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 6.21 Cr,5177 ,Osman Nagar,approval by RERA
+466,4 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 4.52 Cr,3767 ,Osman Nagar,approval by RERA
+467,4 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 5.18 Cr,4318 ,Osman Nagar,approval by RERA
+468,5 BHK Villa in Hallmark County,Hallmark Infracon I Pvt Ltd,Under Construction,"12,000 / sq ft", 6.29 Cr,5247 ,Osman Nagar,approval by RERA
+469,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 99.34 L,1840 ,Jeedimetla,approval by RERA
+470,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 81.52 L,1510 ,Jeedimetla,approval by RERA
+471,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.06 Cr,1975 ,Jeedimetla,approval by RERA
+472,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.03 Cr,1910 ,Jeedimetla,approval by RERA
+473,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.1 Cr,2040 ,Jeedimetla,approval by RERA
+474,4 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.57 Cr,2910 ,Jeedimetla,approval by RERA
+475,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.06 Cr,1980 ,Jeedimetla,approval by RERA
+476,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.09 Cr,2030 ,Jeedimetla,approval by RERA
+477,2 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 59.38 L,1100 ,Jeedimetla,approval by RERA
+478,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 98.8 L,1830 ,Jeedimetla,approval by RERA
+479,2 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 66.4 L,1230 ,Jeedimetla,approval by RERA
+480,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 86.65 L,1605 ,Jeedimetla,approval by RERA
+481,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.12 Cr,2080 ,Jeedimetla,approval by RERA
+482,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.34 Cr,2495 ,Jeedimetla,approval by RERA
+483,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.95 Cr,4540 ,Tukkuguda,approval by RERA
+484,2 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 64.51 L,1195 ,Jeedimetla,approval by RERA
+485,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.95 Cr,4540 ,Tukkuguda,approval by RERA
+486,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.94 Cr,4528 ,Tukkuguda,approval by RERA
+487,4 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.63 Cr,3030 ,Jeedimetla,approval by RERA
+488,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.94 Cr,4528 ,Tukkuguda,approval by RERA
+489,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.76 Cr,4261 ,Tukkuguda,approval by RERA
+490,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.76 Cr,4261 ,Tukkuguda,approval by RERA
+491,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.03 Cr,1915 ,Jeedimetla,approval by RERA
+492,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.39 Cr,2590 ,Jeedimetla,approval by RERA
+493,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 3.01 Cr,4634 ,Tukkuguda,approval by RERA
+494,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 3.01 Cr,4634 ,Tukkuguda,approval by RERA
+495,4 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.7 Cr,3150 ,Jeedimetla,approval by RERA
+496,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.35 Cr,3624 ,Tukkuguda,approval by RERA
+497,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.35 Cr,3624 ,Tukkuguda,approval by RERA
+498,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1.18 Cr,2200 ,Jeedimetla,approval by RERA
+499,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.73 Cr,4206 ,Tukkuguda,approval by RERA
+500,4 BHK Villa in Riddhi Laxman County,Riddhi Group,Under Construction,"6,500 / sq ft", 2.73 Cr,4206 ,Tukkuguda,approval by RERA
+501,2 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 61.27 L,1135 ,Jeedimetla,approval by RERA
+502,3 BHK Apartment in Riddhi Pramukh Elegance,Riddhi Group,Under Construction,"5,399 / sq ft", 1 Cr,1865 ,Jeedimetla,approval by RERA
+503,2 BHK Apartment,seller,Ready to move,"3,345 / sq ft", 37 L,1106 ,Ramachandra Puram,not approval by RERA
+504,2 BHK Apartment,seller,Under Construction,"2,500 / sq ft", 30 L,1200 ,Boduppal,not approval by RERA
+505,2 BHK Apartment,seller,Ready to move,"5,535 / sq ft", 45 L,813 ,Vanasthalipuram,not approval by RERA
+506,3 BHK Villa,seller,Ready to move,"7,826 / sq ft", 1.8 Cr,2300 ,Patancheru,not approval by RERA
+507,3 BHK Independent House,seller,Ready to move,"4,761 / sq ft", 45 L,945 ,chandrayangutta,not approval by RERA
+508,2 BHK Independent House,seller,Ready to move,"6,457 / sq ft", 70 L,1084 ,Dammaiguda,not approval by RERA
+509,4 BHK Independent House,seller,Under Construction,"5,837 / sq ft", 1.45 Cr,2484 ,Aminpur,not approval by RERA
+510,4 BHK Villa in Sri Sri Gruhanirman Sri Antahpuram,seller,Ready to move,"6,060 / sq ft", 2 Cr,3300 ,Bongloor,not approval by RERA
+511,3 BHK Apartment,seller,Under Construction,"2,507 / sq ft", 39.5 L,1575 ,Indresham,not approval by RERA
+512,2 BHK Apartment,seller,Under Construction,"2,500 / sq ft", 25.5 L,1020 ,Indresham,not approval by RERA
+513,3 BHK Apartment,seller,Ready to move,"6,857 / sq ft", 1.2 Cr,1750 ,Manikonda,not approval by RERA
+514,5 BHK Independent House,seller,Under Construction,"4,838 / sq ft", 2.25 Cr,4650 ,Kompally,not approval by RERA
+515,2 BHK Apartment in Surya Constructions Saketh Arcade,seller,Ready to move,"3,636 / sq ft", 40 L,1100 ,Nizampet,not approval by RERA
+516,2 BHK Apartment,seller,Ready to move,"5,094 / sq ft", 54 L,1060 ,Boduppal,not approval by RERA
+517,2 BHK Apartment,seller,Under Construction,"4,166 / sq ft", 45 L,1080 ,Madhapur,not approval by RERA
+518,2 BHK Apartment,seller,Under Construction,"6,723 / sq ft", 79 L,1175 ,Serilingampally,not approval by RERA
+519,2 BHK Apartment in Vasavi Shanthinikethan,seller,Ready to move,"10,526 / sq ft", 1.3 Cr,1235 ,Hitech City,not approval by RERA
+520,2 BHK Apartment,seller,Ready to move,"5,094 / sq ft", 54 L,1060 ,Boduppal,not approval by RERA
+521,2 BHK Apartment,seller,Under Construction,"4,166 / sq ft", 45 L,1080 ,Madhapur,not approval by RERA
+522,2 BHK Apartment,seller,Under Construction,"6,723 / sq ft", 79 L,1175 ,Serilingampally,not approval by RERA
+523,2 BHK Apartment in Vasavi Shanthinikethan,seller,Ready to move,"10,526 / sq ft", 1.3 Cr,1235 ,Hitech City,not approval by RERA
+524,4 BHK Villa in Sri Sri Gruhanirman Sri Antahpuram,seller,Ready to move,"6,060 / sq ft", 2 Cr,3300 ,Bongloor,not approval by RERA
+525,2 BHK Independent House,seller,Ready to move,"6,457 / sq ft", 70 L,1084 ,Dammaiguda,not approval by RERA
+526,4 BHK Villa in Northstar Allura,seller,Under Construction,"13,333 / sq ft", 6 Cr,4500 ,Kokapet,approval by RERA
+527,8 BHK Independent House,seller,Ready to move,"5,833 / sq ft", 3.5 Cr,6000 ,Chandanagar,not approval by RERA
+528,4 BHK Apartment in Prestige High Fields Ph II,seller,Ready to move,"8,286 / sq ft", 2.36 Cr,2848 ,Puppalaguda,not approval by RERA
+529,2 BHK Apartment in P R Residency,seller,Ready to move,"5,130 / sq ft", 59 L,1150 ,Bandlaguda Jagir,not approval by RERA
+530,2 BHK Apartment,seller,Ready to move,"4,560 / sq ft", 27 L,592 ,Dilsukh Nagar,not approval by RERA
+531,3 BHK Independent House,seller,Ready to move,"4,736 / sq ft", 45 L,950 ,chandrayangutta,not approval by RERA
+532,3 BHK Apartment in Prestige Beverly Hills,seller,Under Construction,"7,888 / sq ft", 1.42 Cr,1800 ,Kokapet,approval by RERA
+533,2 BHK Apartment,seller,Ready to move,"10,699 / sq ft", 1.3 Cr,1215 ,Jubilee Hills,not approval by RERA
+534,3 BHK Apartment,seller,Ready to move,"7,397 / sq ft", 1.35 Cr,1825 ,Begumpet,not approval by RERA
+535,3 BHK Apartment,seller,Ready to move,"10,000 / sq ft", 1.8 Cr,1800 ,West Marredpally,not approval by RERA
+536,2 BHK Apartment in Indis VB City,seller,Ready to move,"5,581 / sq ft", 47 L,842 ,Bolarum,not approval by RERA
+537,3 BHK Villa,seller,Under Construction,"6,558 / sq ft", 1.45 Cr,2211 ,Hanamkonda,not approval by RERA
+538,3 BHK Apartment in White Waters At Y,seller,Under Construction,"7,619 / sq ft", 1.2 Cr,1575 ,Kukatpally,approval by RERA
+539,3 BHK Apartment,seller,Ready to move,"6,805 / sq ft", 98 L,1440 ,Amberpet,not approval by RERA
+540,2 BHK Apartment,seller,Ready to move,"4,376 / sq ft", 46 L,1051 ,Pragathi Nagar Kukatpally,not approval by RERA
+541,3 BHK Villa,seller,Under Construction,"6,558 / sq ft", 1.45 Cr,2211 ,Hanamkonda,not approval by RERA
+542,2 BHK Apartment in Sneha Enclave,seller,Ready to move,"9,000 / sq ft", 90 L,1000 ,Yellareddy Guda,not approval by RERA
+543,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 62.59 L,1304 ,Chengicherla,approval by RERA
+544,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 60.19 L,1254 ,Chengicherla,approval by RERA
+545,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 55.29 L,1152 ,Chengicherla,approval by RERA
+546,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 45.79 L,954 ,Chengicherla,approval by RERA
+547,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 52.6 L,1096 ,Chengicherla,approval by RERA
+548,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 44.49 L,927 ,Chengicherla,approval by RERA
+549,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 53.9 L,1123 ,Chengicherla,approval by RERA
+550,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 62.54 L,1303 ,Chengicherla,approval by RERA
+551,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,800 / sq ft", 54.57 L,1137 ,Chengicherla,approval by RERA
+552,2 BHK Apartment in Ayati Lake View ,Ayati Properties,Under Construction,"4,804 / sq ft", 52.79 L,1100 ,Chengicherla,approval by RERA
+553,3 BHK Independent House,seller,Ready to move,"6,466 / sq ft", 1.1 Cr,1701 ,Chengicherla,not approval by RERA
+554,4 BHK Villa,seller,Ready to move,"8,750 / sq ft", 3.5 Cr,4000 ,Yapral,not approval by RERA
+555,2 BHK Apartment,seller,Under Construction,"4,650 / sq ft", 59.52 L,1280 ,Kollur,not approval by RERA
+556,5 BHK Independent House,seller,Ready to move,"3,974 / sq ft", 1.55 Cr,3900 ,Sainikpuri,not approval by RERA
+557,3 BHK Apartment,seller,Ready to move,"7,006 / sq ft", 1.1 Cr,1570 ,Kondapur,not approval by RERA
+558,3 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 80 L,1600 ,Kapra,not approval by RERA
+559,3 BHK Independent House,seller,Ready to move,"5,312 / sq ft", 85 L,1600 ,Kapra,not approval by RERA
+560,3 BHK Apartment,seller,Ready to move,"3,905 / sq ft", 66 L,1690 ,Kollur,not approval by RERA
+561,4 BHK Independent House,seller,Ready to move,"13,207 / sq ft", 3.5 Cr,2650 ,Kompally,not approval by RERA
+562,5 BHK Independent House,seller,Ready to move,"3,974 / sq ft", 1.55 Cr,3900 ,Sainikpuri,not approval by RERA
+563,3 BHK Apartment,seller,Ready to move,"7,006 / sq ft", 1.1 Cr,1570 ,Kondapur,not approval by RERA
+564,3 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 80 L,1600 ,Kapra,not approval by RERA
+565,3 BHK Independent House,seller,Ready to move,"5,312 / sq ft", 85 L,1600 ,Kapra,not approval by RERA
+566,2 BHK Independent House,seller,Ready to move,"5,625 / sq ft", 90 L,1600 ,Kapra,not approval by RERA
+567,3 BHK Apartment in Greater Kompally County,seller,Under Construction,"4,491 / sq ft", 75 L,1670 ,Kompally,approval by RERA
+568,3 BHK Apartment in Sumadhura The Olympus,seller,Under Construction,"8,802 / sq ft", 1.47 Cr,1670 ,Nanakramguda,approval by RERA
+569,3 BHK Apartment in IJM Raintree Park Phase 1,seller,Ready to move,"7,357 / sq ft", 1.1 Cr,1495 ,Kukatpally,not approval by RERA
+570,3 BHK Apartment,seller,Ready to move,"5,365 / sq ft", 88 L,1640 ,Kondapur,not approval by RERA
+571,2 BHK Apartment in Splendeur Shweta Shubham,seller,Ready to move,"6,224 / sq ft", 62 L,996 ,Kompally,not approval by RERA
+572,2 BHK Apartment in Reputed Builder Lahari Susheela apartment,seller,Ready to move,"6,185 / sq ft", 60 L,970 ,Uppal,not approval by RERA
+573,3 BHK Apartment in IVR Hill Ridge Springs,seller,Ready to move,"6,857 / sq ft", 1.2 Cr,1750 ,Gachibowli,not approval by RERA
+574,3 BHK Apartment,seller,Ready to move,"5,303 / sq ft", 1.05 Cr,1980 ,Manikonda,not approval by RERA
+575,2 BHK Independent House,seller,Under Construction,"5,555 / sq ft", 50 L,900 ,Badangpet,not approval by RERA
+576,2 BHK Independent House,seller,Ready to move,"11,479 / sq ft", 2.6 Cr,2265 ,Vanasthalipuram,not approval by RERA
+577,5 BHK Independent House,seller,Ready to move,"14,705 / sq ft", 5 Cr,3400 ,Somajiguda,not approval by RERA
+578,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.11 Cr,1770 ,Manchirevula,approval by RERA
+579,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.03 Cr,1650 ,Manchirevula,approval by RERA
+580,2 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 78.73 L,1250 ,Manchirevula,approval by RERA
+581,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.18 Cr,1885 ,Manchirevula,approval by RERA
+582,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.14 Cr,1818 ,Manchirevula,approval by RERA
+583,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.29 Cr,2050 ,Manchirevula,approval by RERA
+584,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.28 Cr,2047 ,Manchirevula,approval by RERA
+585,3 BHK Apartment in Hallmark Skyrena,Hallmark Builders,Under Construction,"6,499 / sq ft", 1.06 Cr,1635 ,Narsingi,approval by RERA
+586,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.08 Cr,1717 ,Manchirevula,approval by RERA
+587,3 BHK Apartment in Hallmark Skyrena,Hallmark Builders,Under Construction,"6,499 / sq ft", 1.46 Cr,2255 ,Narsingi,approval by RERA
+588,2 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 81.25 L,1290 ,Manchirevula,approval by RERA
+589,2 BHK Apartment in Hallmark Skyrena,Hallmark Builders,Under Construction,"6,499 / sq ft", 86.11 L,1325 ,Narsingi,approval by RERA
+590,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.16 Cr,1853 ,Manchirevula,approval by RERA
+591,3 BHK Apartment in Hallmark Skyrena,Hallmark Builders,Under Construction,"6,499 / sq ft", 1.25 Cr,1935 ,Narsingi,approval by RERA
+592,3 BHK Apartment in Hallmark Sunnyside,Hallmark Builders,Under Construction,"6,299 / sq ft", 1.29 Cr,2063 ,Manchirevula,approval by RERA
+593,3 BHK Villa,seller,Under Construction,"5,000 / sq ft", 1.5 Cr,3000 ,Cherlapalli,not approval by RERA
+594,3 BHK Apartment,seller,Ready to move,"5,800 / sq ft", 87 L,1500 ,Mallapur,not approval by RERA
+595,3 BHK Apartment,seller,Ready to move,"5,800 / sq ft", 87 L,1500 ,Mallapur,not approval by RERA
+596,3 BHK Villa,seller,Under Construction,"2,857 / sq ft", 80 L,2800 ,Indresham,not approval by RERA
+597,3 BHK Apartment,seller,Under Construction,"5,312 / sq ft", 85 L,1600 ,Nagole,not approval by RERA
+598,3 BHK Apartment in Creative Udaya Cresent,seller,Ready to move,"8,830 / sq ft", 2 Cr,2265 ,Kondapur,not approval by RERA
+599,2 BHK Apartment in Sri Manikanta Residency,seller,Ready to move,"5,142 / sq ft", 54 L,1050 ,Miyapur,not approval by RERA
+600,4 BHK Independent House,seller,Ready to move,"5,111 / sq ft", 92 L,1800 ,Aminpur,not approval by RERA
+601,3 BHK Apartment,seller,Ready to move,"5,431 / sq ft", 80 L,1473 ,Nizampet,not approval by RERA
+602,2 BHK Apartment,seller,Under Construction,"4,960 / sq ft", 62 L,1250 ,Miyapur,not approval by RERA
+603,2 BHK Apartment in Vasathi Anandi,seller,Ready to move,"6,310 / sq ft", 65 L,1030 ,Appa Junction Peerancheru,not approval by RERA
+604,3 BHK Independent House,seller,Ready to move,"12,182 / sq ft", 2.16 Cr,1773 ,Dilsukh Nagar,not approval by RERA
+605,3 BHK Villa in Elite Rama Serenity,seller,Ready to move,"8,912 / sq ft", 2.5 Cr,2805 ,Kompally,not approval by RERA
+606,3 BHK Apartment,seller,Under Construction,"2,586 / sq ft", 41 L,1585 ,Kompally,not approval by RERA
+607,2 BHK Apartment,seller,Ready to move,"4,761 / sq ft", 58 L,1218 ,Vanasthalipuram,not approval by RERA
+608,2 BHK Apartment,seller,Ready to move,"4,774 / sq ft", 53 L,1110 ,Vanasthalipuram,not approval by RERA
+609,3 BHK Apartment,seller,Under Construction,"4,829 / sq ft", 71 L,1470 ,Vanasthalipuram,not approval by RERA
+610,2 BHK Apartment,seller,Under Construction,"4,724 / sq ft", 48 L,1016 ,Badangpet,not approval by RERA
+611,2 BHK Apartment in Bhuvanteza Aura II,seller,Under Construction,"2,882 / sq ft", 33 L,1145 ,Kollur,approval by RERA
+612,2 BHK Apartment in Tranquillo MPR Urban City,seller,Under Construction,"4,065 / sq ft", 37 L,910 ,Patancheru,approval by RERA
+613,3 BHK Apartment,seller,Ready to move,"4,484 / sq ft", 50 L,1115 ,Uppal,not approval by RERA
+614,2 BHK Apartment,seller,Under Construction,"1,774 / sq ft", 22 L,1240 ,Isnapur,not approval by RERA
+615,3 BHK Apartment,seller,Ready to move,"4,844 / sq ft", 75 L,1548 ,Neknampur,not approval by RERA
+616,3 BHK Apartment in Swaraj Homes Udaya Park View,seller,Ready to move,"7,837 / sq ft", 1.45 Cr,1850 ,Himayat Nagar,not approval by RERA
+617,4 BHK Independent House,seller,Ready to move,"4,074 / sq ft", 1.1 Cr,2700 ,Kapra,not approval by RERA
+618,7 BHK Independent House,seller,Ready to move,"3,660 / sq ft", 2.05 Cr,5600 ,Rampally,not approval by RERA
+619,3 BHK Villa in Praneeth Pranav Leaf,Praneeth Group,Under Construction,"8,108 / sq ft", 1.62 Cr,1998 ,Bachupally,approval by RERA
+620,3 BHK Villa in Praneeth Pranav Leaf,Praneeth Group,Under Construction,"8,083 / sq ft", 1.75 Cr,2165 ,Bachupally,approval by RERA
+621,3 BHK Villa in Praneeth Pranav Leaf,Praneeth Group,Under Construction,"7,878 / sq ft", 1.3 Cr,1650 ,Bachupally,approval by RERA
+622,3 BHK Apartment,seller,Ready to move,"4,012 / sq ft", 65 L,1620 ,Manikonda,not approval by RERA
+623,2 BHK Apartment,seller,Under Construction,"2,363 / sq ft", 26 L,1100 ,Indresham,not approval by RERA
+624,2 BHK Independent Floor,seller,Ready to move,"5,284 / sq ft", 65 L,1230 ,Bowenpally,not approval by RERA
+625,3 BHK Apartment,seller,Ready to move,"4,966 / sq ft", 75 L,1510 ,Pragathi Nagar Kukatpally,not approval by RERA
+626,3 BHK Apartment in Aditya Empress Towers,seller,Ready to move,"8,000 / sq ft", 1.28 Cr,1600 ,Shaikpet,not approval by RERA
+627,2 BHK Independent House,seller,Ready to move,"5,508 / sq ft", 65 L,1180 ,Munganoor,not approval by RERA
+628,3 BHK Villa,seller,Ready to move,"4,107 / sq ft", 1.15 Cr,2800 ,Basuragadi Village,not approval by RERA
+629,2 BHK Apartment,seller,Under Construction,"4,819 / sq ft", 60 L,1245 ,Vanasthalipuram,not approval by RERA
+630,3 BHK Apartment,seller,Ready to move,"4,761 / sq ft", 70 L,1470 ,Vanasthalipuram,not approval by RERA
+631,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.01 Cr,1636 ,Manikonda,not approval by RERA
+632,2 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 81.09 L,1308 ,Manikonda,not approval by RERA
+633,2 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 77.62 L,1252 ,Manikonda,not approval by RERA
+634,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.08 Cr,1750 ,Manikonda,not approval by RERA
+635,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.13 Cr,1827 ,Manikonda,not approval by RERA
+636,2 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 80.47 L,1298 ,Manikonda,not approval by RERA
+637,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.01 Cr,1630 ,Manikonda,not approval by RERA
+638,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 99.88 L,1611 ,Manikonda,not approval by RERA
+639,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 96.1 L,1550 ,Manikonda,not approval by RERA
+640,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 99.88 L,1611 ,Manikonda,not approval by RERA
+641,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 96.1 L,1550 ,Manikonda,not approval by RERA
+642,2 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 79.42 L,1281 ,Manikonda,not approval by RERA
+643,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.1 Cr,1785 ,Manikonda,not approval by RERA
+644,2 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 78.18 L,1261 ,Manikonda,not approval by RERA
+645,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.06 Cr,1718 ,Manikonda,not approval by RERA
+646,3 BHK Apartment in Anuhar Art Of Living,Anuhar Homes Pvt Ltd,Ready to move,"6,200 / sq ft", 1.07 Cr,1730 ,Manikonda,not approval by RERA
+647,2 BHK Apartment,seller,Under Construction,"2,799 / sq ft", 32.04 L,1145 ,Kollur,not approval by RERA
+648,2 BHK Apartment,seller,Under Construction,"4,110 / sq ft", 52 L,1265 ,Kollur,not approval by RERA
+649,3 BHK Apartment,seller,Under Construction,"5,000 / sq ft", 90 L,1800 ,Khajaguda Nanakramguda Road,not approval by RERA
+650,3 BHK Apartment,seller,Under Construction,"5,812 / sq ft", 93 L,1600 ,Dilsukh Nagar,not approval by RERA
+651,3 BHK Apartment in Swaraj Homes Satya Krishna Shri Sampada,seller,Ready to move,"6,031 / sq ft", 95 L,1575 ,Begumpet,not approval by RERA
+652,2 BHK Apartment,seller,Under Construction,"4,000 / sq ft", 40 L,1000 ,Kondapur,not approval by RERA
+653,2 BHK Apartment,seller,Ready to move,"4,397 / sq ft", 42 L,955 ,Miyapur,not approval by RERA
+654,2 BHK Apartment,seller,Ready to move,"3,781 / sq ft", 45 L,1190 ,Hafeezpet,not approval by RERA
+655,2 BHK Independent House,seller,Ready to move,"6,647 / sq ft", 70 L,1053 ,Chengicherla,not approval by RERA
+656,2 BHK Apartment,seller,Under Construction,"5,492 / sq ft", 53 L,965 ,Bandlaguda Jagir,not approval by RERA
+657,3 BHK Apartment in Primark Cygnus,seller,Ready to move,"6,906 / sq ft", 1.15 Cr,1665 ,Gopanpally,not approval by RERA
+658,2 BHK Apartment in SNR The Elite,seller,Under Construction,"5,425 / sq ft", 69.99 L,1290 ,Gopanpally,approval by RERA
+659,3 BHK Apartment in  Apartment,seller,Under Construction,"4,501 / sq ft", 71.35 L,1585 ,Chandanagar,approval by RERA
+660,3 BHK Independent House,seller,Ready to move,"8,205 / sq ft", 1.6 Cr,1950 ,Bandlaguda Jagir,not approval by RERA
+661,3 BHK Apartment,seller,Ready to move,"5,219 / sq ft", 1.25 Cr,2395 ,Attapur,not approval by RERA
+662,2 BHK Apartment,seller,Ready to move,"7,211 / sq ft", 75 L,1040 ,Nallakunta,not approval by RERA
+663,4 BHK Independent House,seller,Ready to move,"4,690 / sq ft", 1.29 Cr,2750 ,Bolarum,not approval by RERA
+664,2 BHK Apartment in SMR Vinay Iconia Phase 2,seller,Under Construction,"8,143 / sq ft", 1.25 Cr,1535 ,Serilingampally,approval by RERA
+665,3 BHK Independent House,seller,Ready to move,"29,615 / sq ft", 3.85 Cr,1300 ,Serilingampally,not approval by RERA
+666,2 BHK Villa,seller,Under Construction,"10,705 / sq ft", 1.67 Cr,1560 ,Kapra,not approval by RERA
+667,10 BHK Independent House,seller,Ready to move,"4,561 / sq ft", 2.59 Cr,5700 ,Meerpet,not approval by RERA
+668,2 BHK Apartment,seller,Under Construction,"3,750 / sq ft", 35.62 L,950 ,Pocharam,not approval by RERA
+669,2 BHK Apartment,seller,Under Construction,"4,000 / sq ft", 40 L,1000 ,Kondapur,not approval by RERA
+670,3 BHK Apartment in Bricks Cyberwoods,seller,Under Construction,"5,899 / sq ft", 1 Cr,1695 ,Osman Nagar,approval by RERA
+671,3 BHK Apartment,seller,Under Construction,"5,555 / sq ft", 1 Cr,1800 ,Khajaguda Nanakramguda Road,not approval by RERA
+672,3 BHK Apartment,seller,Ready to move,"6,206 / sq ft", 1.35 Cr,2175 ,Manikonda,not approval by RERA
+673,2 BHK Apartment in Beams 4 Blocks,seller,Under Construction,"5,533 / sq ft", 70 L,1265 ,Kompally,approval by RERA
+674,2 BHK Independent House in VRR Nagaram,seller,Ready to move,"3,982 / sq ft", 62 L,1557 ,Nagaram,not approval by RERA
+675,2 BHK Apartment,seller,Under Construction,"3,916 / sq ft", 47 L,1200 ,Aminpur,not approval by RERA
+676,4 BHK Villa in Srinivasa Thiru Sankalp,seller,Ready to move,"9,200 / sq ft", 2.3 Cr,2500 ,Pragathi Nagar Kukatpally,not approval by RERA
+677,2 BHK Apartment,seller,Ready to move,"5,046 / sq ft", 54 L,1070 ,Kothapet,not approval by RERA
+678,1 BHK Apartment in Manasvy Heights,seller,Under Construction,"3,555 / sq ft", 32 L,900 ,Miyapur,approval by RERA
+679,3 BHK Villa in Sri Sai Nilayam,seller,Under Construction,"7,695 / sq ft", 2 Cr,2599 ,Patancheru,approval by RERA
+680,5 BHK Independent House,seller,Ready to move,"5,777 / sq ft", 2.6 Cr,4500 ,Kukatpally,not approval by RERA
+681,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 95.35 L,1538 ,Manikonda,approval by RERA
+682,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 93.31 L,1505 ,Manikonda,approval by RERA
+683,2 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 77.19 L,1245 ,Manikonda,approval by RERA
+684,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 97.34 L,1570 ,Manikonda,approval by RERA
+685,2 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 75.02 L,1210 ,Manikonda,approval by RERA
+686,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 93.62 L,1510 ,Manikonda,approval by RERA
+687,2 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 72.85 L,1175 ,Manikonda,approval by RERA
+688,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 91.76 L,1480 ,Manikonda,approval by RERA
+689,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 95.79 L,1545 ,Manikonda,approval by RERA
+690,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 93.93 L,1515 ,Manikonda,approval by RERA
+691,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 96.72 L,1560 ,Manikonda,approval by RERA
+692,3 BHK Apartment in Riddhi Grandeur,Riddhi Group,Under Construction,"6,200 / sq ft", 93 L,1500 ,Manikonda,approval by RERA
+693,3 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 1.02 Cr,1963 ,Bandlaguda Jagir,approval by RERA
+694,3 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 1.05 Cr,2028 ,Bandlaguda Jagir,approval by RERA
+695,2 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 76.73 L,1476 ,Bandlaguda Jagir,approval by RERA
+696,3 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 93.78 L,1804 ,Bandlaguda Jagir,approval by RERA
+697,2 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 62.02 L,1193 ,Bandlaguda Jagir,approval by RERA
+698,2 BHK Apartment in Vaishnavi Houdini,Vaishnavi Infracon India Pvt Ltd,Under Construction,"5,199 / sq ft", 65.97 L,1269 ,Bandlaguda Jagir,approval by RERA
+699,2 BHK Apartment,seller,Ready to move,"10,384 / sq ft", 1.08 Cr,1040 ,Kukatpally,not approval by RERA
+700,3 BHK Apartment in Booomy Jahanavis My Homes,seller,Under Construction,"5,500 / sq ft", 88 L,1600 ,Manikonda,approval by RERA
+701,2 BHK Apartment in Jain Carlton Creek,seller,Ready to move,"7,246 / sq ft", 1 Cr,1380 ,Manikonda,not approval by RERA
+702,5 BHK Villa,seller,Ready to move,"5,666 / sq ft", 1.69 Cr,3000 ,Gachibowli,not approval by RERA
+703,5 BHK Villa,seller,Ready to move,"5,833 / sq ft", 1.75 Cr,3000 ,Gachibowli,not approval by RERA
+704,2 BHK Apartment in Sai Pragathi Heaven,seller,Ready to move,"5,217 / sq ft", 60 L,1150 ,Uppal Kalan,not approval by RERA
+705,3 BHK Apartment,seller,Under Construction,"4,133 / sq ft", 62 L,1500 ,Gandi Maisamma,not approval by RERA
+706,2 BHK Independent House,seller,Ready to move,"6,500 / sq ft", 78 L,1200 ,Hayathnagar,not approval by RERA
+707,3 BHK Independent House,seller,Ready to move,"4,500 / sq ft", 45 L,1000 ,Balapur,not approval by RERA
+708,2 BHK Apartment in Trident Grande,seller,Ready to move,"5,106 / sq ft", 74 L,1449 ,Kompally,not approval by RERA
+709,3 BHK Independent Floor,seller,Ready to move,"3,333 / sq ft", 60 L,1800 ,Medchal,not approval by RERA
+710,2 BHK Apartment,seller,Ready to move,"4,579 / sq ft", 49 L,1070 ,Bandlaguda Jagir,not approval by RERA
+711,2 BHK Apartment,seller,Ready to move,"18,000 / sq ft", 1.8 Cr,1000 ,Nawab Saheb Kunta,not approval by RERA
+712,1 BHK Apartment,seller,Ready to move,"4,347 / sq ft", 25 L,575 ,Kukatpally,not approval by RERA
+713,3 BHK Apartment,seller,Under Construction,"4,133 / sq ft", 62 L,1500 ,Gandi Maisamma,not approval by RERA
+714,2 BHK Apartment,seller,Ready to move,"4,579 / sq ft", 49 L,1070 ,Bandlaguda Jagir,not approval by RERA
+715,2 BHK Apartment,seller,Ready to move,"4,753 / sq ft", 53.72 L,1130 ,Karmanghat,not approval by RERA
+716,3 BHK Independent Floor,seller,Ready to move,"5,696 / sq ft", 90 L,1580 ,Borabanda,not approval by RERA
+717,4 BHK Villa,seller,Under Construction,"3,619 / sq ft", 76 L,2100 ,Zaheerabad,not approval by RERA
+718,2 BHK Apartment in SSV Krishna Heights,seller,Under Construction,"4,300 / sq ft", 68.8 L,1600 ,Peerzadiguda,approval by RERA
+719,3 BHK Apartment,seller,Ready to move,"5,120 / sq ft", 68 L,1328 ,Kukatpally,not approval by RERA
+720,3 BHK Apartment,seller,Ready to move,"5,120 / sq ft", 68 L,1328 ,Kukatpally,not approval by RERA
+721,3 BHK Apartment,seller,Under Construction,"6,250 / sq ft", 75 L,1200 ,Kompally,not approval by RERA
+722,4 BHK Independent House,seller,Ready to move,"4,814 / sq ft", 65 L,1350 ,Chintalmet,not approval by RERA
+723,2 BHK Apartment in Sai Pragathi Heaven,seller,Ready to move,"5,043 / sq ft", 58 L,1150 ,Uppal Kalan,not approval by RERA
+724,3 BHK Independent Floor,seller,Ready to move,"10,952 / sq ft", 2.3 Cr,2100 ,Himayat Nagar,not approval by RERA
+725,2 BHK Apartment,seller,Ready to move,"3,700 / sq ft", 37 L,1000 ,Isnapur,not approval by RERA
+726,2 BHK Apartment,seller,Ready to move,"7,878 / sq ft", 91 L,1155 ,Masab Tank,not approval by RERA
+727,3 BHK Independent House,seller,Ready to move,"6,750 / sq ft", 1.35 Cr,2000 ,Bairagiguda,not approval by RERA
+728,2 BHK Apartment,seller,Ready to move,"4,046 / sq ft", 42 L,1038 ,Dammaiguda,not approval by RERA
+729,10 BHK Independent House,seller,Ready to move,"3,480 / sq ft", 4.35 Cr,12500 ,Katedan Industrial Area,not approval by RERA
+730,2 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 42.35 L,1210 ,Boduppal,not approval by RERA
+731,6 BHK Villa,seller,Ready to move,"6,543 / sq ft", 2.65 Cr,4050 ,Ghansi Bazaar,not approval by RERA
+732,3 BHK Apartment,seller,Under Construction,"3,636 / sq ft", 44 L,1210 ,Narapally,not approval by RERA
+733,3 BHK Apartment in Andhra Pradesh APHB Singapore Township,seller,Ready to move,"3,117 / sq ft", 53 L,1700 ,Pocharam,not approval by RERA
+734,2 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 42.35 L,1210 ,Pocharam,not approval by RERA
+735,2 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 42.87 L,1225 ,Pocharam,not approval by RERA
+736,2 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 43.22 L,1235 ,Pocharam,not approval by RERA
+737,3 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 61.77 L,1765 ,Pocharam,not approval by RERA
+738,3 BHK Apartment,seller,Under Construction,"3,499 / sq ft", 71.92 L,2055 ,Pocharam,not approval by RERA
+739,3 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 71.93 L,2055 ,Pocharam,not approval by RERA
+740,3 BHK Apartment,seller,Under Construction,"3,499 / sq ft", 78.39 L,2240 ,Pocharam,not approval by RERA
+741,3 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 78.4 L,2240 ,Pocharam,not approval by RERA
+742,3 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 60.2 L,1720 ,Pocharam,not approval by RERA
+743,3 BHK Apartment,seller,Under Construction,"3,500 / sq ft", 60.2 L,1720 ,Pocharam,not approval by RERA
+744,2 BHK Apartment,seller,Ready to move,"4,500 / sq ft", 54 L,1200 ,Nizampet,not approval by RERA
+745,3 BHK Apartment in Vashista Icon,seller,Under Construction,"4,926 / sq ft", 64 L,1299 ,Chengicherla,approval by RERA
+746,3 BHK Apartment,seller,Under Construction,"3,510 / sq ft", 60.2 L,1715 ,Pocharam,not approval by RERA
+747,4 BHK Independent House,seller,Ready to move,"4,095 / sq ft", 1.15 Cr,2808 ,Santoshnagar,not approval by RERA
+748,2 BHK Apartment in Swaraj Homes Padmaja Avenue,seller,Ready to move,"4,660 / sq ft", 48 L,1030 ,Kukatpally,not approval by RERA
+749,2 BHK Apartment,seller,Ready to move,"4,600 / sq ft", 53.26 L,1158 ,Bachupally,not approval by RERA
+750,3 BHK Apartment,seller,Under Construction,"6,000 / sq ft", 87 L,1450 ,Saidabad,not approval by RERA
+751,2 BHK Apartment,seller,Ready to move,"4,186 / sq ft", 35 L,836 ,Ramachandra Puram,not approval by RERA
+752,2 BHK Independent Floor,seller,Ready to move,"9,583 / sq ft", 1.15 Cr,1200 ,Nagaram,not approval by RERA
+753,3 BHK Apartment in Hallmark Sunnyside,seller,Under Construction,"7,221 / sq ft", 1.24 Cr,1717 ,Manchirevula,approval by RERA
+754,2 BHK Apartment,seller,Under Construction,"4,615 / sq ft", 60 L,1300 ,LB Nagar,not approval by RERA
+755,2 BHK Apartment,seller,Under Construction,"2,500 / sq ft", 25 L,1000 ,Shankarpally Road,not approval by RERA
+756,2 BHK Apartment,seller,Under Construction,"2,181 / sq ft", 24 L,1100 ,Medchal,not approval by RERA
+757,3 BHK Apartment in Sunrise Square Block A,seller,Ready to move,"6,273 / sq ft", 91.9 L,1465 ,Kukatpally,not approval by RERA
+758,3 BHK Independent House,seller,Ready to move,"3,315 / sq ft", 63 L,1900 ,Medchal,not approval by RERA
+759,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.1 Cr,1836 ,Miyapur,approval by RERA
+760,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 78.66 L,1311 ,Miyapur,approval by RERA
+761,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 94.5 L,1575 ,Miyapur,approval by RERA
+762,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 86.88 L,1448 ,Miyapur,approval by RERA
+763,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.14 Cr,1908 ,Miyapur,approval by RERA
+764,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.06 Cr,1775 ,Miyapur,approval by RERA
+765,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 75.06 L,1251 ,Miyapur,approval by RERA
+766,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 95.04 L,1584 ,Miyapur,approval by RERA
+767,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 93.3 L,1555 ,Miyapur,approval by RERA
+768,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 89.58 L,1493 ,Miyapur,approval by RERA
+769,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.09 Cr,1828 ,Miyapur,approval by RERA
+770,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.01 Cr,1695 ,Miyapur,approval by RERA
+771,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 73.98 L,1233 ,Miyapur,approval by RERA
+772,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 80.64 L,1344 ,Miyapur,approval by RERA
+773,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.11 Cr,1866 ,Miyapur,approval by RERA
+774,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 96.18 L,1603 ,Miyapur,approval by RERA
+775,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 76.38 L,1273 ,Miyapur,approval by RERA
+776,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1 Cr,1678 ,Miyapur,approval by RERA
+777,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 72.84 L,1214 ,Miyapur,approval by RERA
+778,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.11 Cr,1853 ,Miyapur,approval by RERA
+779,2 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 79.26 L,1321 ,Miyapur,approval by RERA
+780,3 BHK Apartment in MRKR Meda Prestige,seller,Under Construction,"6,000 / sq ft", 1.07 Cr,1794 ,Miyapur,approval by RERA
+781,2 BHK Apartment,seller,Under Construction,"2,166 / sq ft", 26 L,1200 ,Bhanur,not approval by RERA
+782,3 BHK Apartment in Mirchi Taranto,seller,Under Construction,"4,895 / sq ft", 70 L,1430 ,Kollur,approval by RERA
+783,3 BHK Apartment,seller,Under Construction,"5,548 / sq ft", 85.99 L,1550 ,Puppalaguda,not approval by RERA
+784,3 BHK Independent House,seller,Ready to move,"3,277 / sq ft", 59 L,1800 ,Medchal,not approval by RERA
+785,2 BHK Independent House,seller,Under Construction,"5,517 / sq ft", 72 L,1305 ,Nagaram,not approval by RERA
+786,3 BHK Independent House,seller,Under Construction,"3,333 / sq ft", 60 L,1800 ,Medchal,not approval by RERA
+787,2 BHK Apartment,seller,Ready to move,"4,173 / sq ft", 48 L,1150 ,Rajendra Nagar,not approval by RERA
+788,3 BHK Apartment,seller,Ready to move,"5,200 / sq ft", 78 L,1500 ,LB Nagar,not approval by RERA
+789,2 BHK Apartment,seller,Under Construction,"5,833 / sq ft", 1.4 Cr,2400 ,Khajaguda Nanakramguda Road,not approval by RERA
+790,3 BHK Apartment,seller,Ready to move,"3,319 / sq ft", 47 L,1416 ,Mallampet,not approval by RERA
+791,2 BHK Independent House,seller,Under Construction,"6,111 / sq ft", 55 L,900 ,Jai Suryapatnam,not approval by RERA
+792,4 BHK Independent House,seller,Ready to move,"9,000 / sq ft", 3.6 Cr,4000 ,Amberpet,not approval by RERA
+793,3 BHK Villa in Saket Bhu Sattva,seller,Ready to move,"8,888 / sq ft", 1.6 Cr,1800 ,Kompally,not approval by RERA
+794,2 BHK Apartment,seller,Ready to move,"4,300 / sq ft", 47.73 L,1110 ,Boduppal,not approval by RERA
+795,4 BHK Villa in CSK Green Villas,seller,Ready to move,"2,580 / sq ft", 62 L,2403 ,Shadnagar,not approval by RERA
+796,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"16,553 / sq ft", 7.04 Cr,4259 ,Serilingampally,approval by RERA
+797,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"16,000 / sq ft", 5.73 Cr,3584 ,Serilingampally,approval by RERA
+798,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"17,000 / sq ft", 6.17 Cr,3632 ,Serilingampally,approval by RERA
+799,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"16,000 / sq ft", 5.9 Cr,3693 ,Serilingampally,approval by RERA
+800,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"16,000 / sq ft", 5.77 Cr,3610 ,Serilingampally,approval by RERA
+801,4 BHK Villa in Vessella Woods,Vessella Group,Under Construction,"17,000 / sq ft", 6.23 Cr,3665 ,Serilingampally,approval by RERA
+802,3 BHK Apartment,seller,Ready to move,"5,681 / sq ft", 1.25 Cr,2200 ,Puppalaguda,not approval by RERA
+803,2 BHK Apartment in Nikhil La Cresta,seller,Ready to move,"4,741 / sq ft", 55 L,1160 ,Malkajgiri,not approval by RERA
+804,2 BHK Apartment,seller,Under Construction,"4,469 / sq ft", 56 L,1253 ,Nacharam,not approval by RERA
+805,2 BHK Apartment,seller,Under Construction,"4,727 / sq ft", 52 L,1100 ,Nizampet,not approval by RERA
+806,4 BHK Independent House,seller,Ready to move,"5,900 / sq ft", 1.18 Cr,2000 ,Chengicherla,not approval by RERA
+807,2 BHK Apartment,seller,Ready to move,"4,636 / sq ft", 51 L,1100 ,Bandlaguda Jagir,not approval by RERA
+808,2 BHK Apartment,seller,Ready to move,"5,842 / sq ft", 60 L,1027 ,Kothapet,not approval by RERA
+809,2 BHK Independent House,seller,Ready to move,"6,250 / sq ft", 45 L,720 ,Malkajgiri,not approval by RERA
+810,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 71.53 L,1431 ,Mallampet,approval by RERA
+811,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 84.13 L,1683 ,Mallampet,approval by RERA
+812,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 84.58 L,1692 ,Mallampet,approval by RERA
+813,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 64.33 L,1287 ,Mallampet,approval by RERA
+814,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 89.98 L,1800 ,Mallampet,approval by RERA
+815,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 57.13 L,1143 ,Mallampet,approval by RERA
+816,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 57.58 L,1152 ,Mallampet,approval by RERA
+817,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 77.38 L,1548 ,Mallampet,approval by RERA
+818,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 84.13 L,1683 ,Mallampet,approval by RERA
+819,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 76.03 L,1521 ,Mallampet,approval by RERA
+820,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 64.33 L,1287 ,Mallampet,approval by RERA
+821,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 77.38 L,1548 ,Mallampet,approval by RERA
+822,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 76.03 L,1521 ,Mallampet,approval by RERA
+823,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 76.48 L,1530 ,Mallampet,approval by RERA
+824,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 76.48 L,1530 ,Mallampet,approval by RERA
+825,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 75.13 L,1503 ,Mallampet,approval by RERA
+826,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 55.33 L,1107 ,Mallampet,approval by RERA
+827,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 75.58 L,1512 ,Mallampet,approval by RERA
+828,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 69.28 L,1386 ,Mallampet,approval by RERA
+829,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 55.78 L,1116 ,Mallampet,approval by RERA
+830,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 82.33 L,1647 ,Mallampet,approval by RERA
+831,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 62.53 L,1251 ,Mallampet,approval by RERA
+832,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 74.68 L,1494 ,Mallampet,approval by RERA
+833,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 80.08 L,1602 ,Mallampet,approval by RERA
+834,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 73.78 L,1476 ,Mallampet,approval by RERA
+835,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 54.43 L,1089 ,Mallampet,approval by RERA
+836,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 67.48 L,1350 ,Mallampet,approval by RERA
+837,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 66.13 L,1323 ,Mallampet,approval by RERA
+838,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 72.88 L,1458 ,Mallampet,approval by RERA
+839,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 79.63 L,1593 ,Mallampet,approval by RERA
+840,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 73.33 L,1467 ,Mallampet,approval by RERA
+841,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 58.93 L,1179 ,Mallampet,approval by RERA
+842,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 85.03 L,1701 ,Mallampet,approval by RERA
+843,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 59.38 L,1188 ,Mallampet,approval by RERA
+844,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 75.13 L,1503 ,Mallampet,approval by RERA
+845,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 72.43 L,1449 ,Mallampet,approval by RERA
+846,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 55.33 L,1107 ,Mallampet,approval by RERA
+847,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 71.08 L,1422 ,Mallampet,approval by RERA
+848,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 75.58 L,1512 ,Mallampet,approval by RERA
+849,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 69.28 L,1386 ,Mallampet,approval by RERA
+850,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 55.78 L,1116 ,Mallampet,approval by RERA
+851,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 77.83 L,1557 ,Mallampet,approval by RERA
+852,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 82.33 L,1647 ,Mallampet,approval by RERA
+853,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 62.53 L,1251 ,Mallampet,approval by RERA
+854,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 74.68 L,1494 ,Mallampet,approval by RERA
+855,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 71.53 L,1431 ,Mallampet,approval by RERA
+856,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 80.08 L,1602 ,Mallampet,approval by RERA
+857,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 84.58 L,1692 ,Mallampet,approval by RERA
+858,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 73.78 L,1476 ,Mallampet,approval by RERA
+859,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 54.43 L,1089 ,Mallampet,approval by RERA
+860,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 67.48 L,1350 ,Mallampet,approval by RERA
+861,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 66.13 L,1323 ,Mallampet,approval by RERA
+862,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 89.98 L,1800 ,Mallampet,approval by RERA
+863,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 72.88 L,1458 ,Mallampet,approval by RERA
+864,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 79.63 L,1593 ,Mallampet,approval by RERA
+865,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 73.33 L,1467 ,Mallampet,approval by RERA
+866,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 58.93 L,1179 ,Mallampet,approval by RERA
+867,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 57.13 L,1143 ,Mallampet,approval by RERA
+868,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 85.03 L,1701 ,Mallampet,approval by RERA
+869,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 59.38 L,1188 ,Mallampet,approval by RERA
+870,3 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 72.43 L,1449 ,Mallampet,approval by RERA
+871,2 BHK Apartment in Engineers Sri Tirumala Millennium Phase II,EAPL Group,Under Construction,"4,999 / sq ft", 57.58 L,1152 ,Mallampet,approval by RERA
+872,5 BHK Villa in Mythri The Town,seller,Ready to move,"5,903 / sq ft", 1.83 Cr,3100 ,Yapral,not approval by RERA
+873,2 BHK Apartment,seller,Ready to move,"7,000 / sq ft", 84 L,1200 ,Hitech City,not approval by RERA
+874,3 BHK Apartment,seller,Ready to move,"5,506 / sq ft", 1.06 Cr,1925 ,Kokapet,not approval by RERA
+875,2 BHK Apartment in Lalitha Divine County,seller,Under Construction,"4,666 / sq ft", 56 L,1200 ,Ameenpur,approval by RERA
+876,3 BHK Apartment in Swaraj Homes Udaya Park View,seller,Ready to move,"8,108 / sq ft", 1.5 Cr,1850 ,Himayat Nagar,not approval by RERA
+877,2 BHK Apartment,seller,Under Construction,"2,000 / sq ft", 24 L,1200 ,Bhanur,not approval by RERA
+878,2 BHK Apartment,seller,Under Construction,"1,934 / sq ft", 23.5 L,1215 ,Bhanur,not approval by RERA
+879,2 BHK Apartment in AV Lalitha Divine County,seller,Under Construction,"4,300 / sq ft", 51.6 L,1200 ,Ameenpur,approval by RERA
+880,3 BHK Villa in Gem Estrella Kuber,seller,Ready to move,"10,799 / sq ft", 3.7 Cr,3426 ,Kollur,not approval by RERA
+881,2 BHK Apartment,seller,Under Construction,"2,000 / sq ft", 24 L,1200 ,Bhanur,not approval by RERA
+882,2 BHK Apartment,seller,Under Construction,"1,934 / sq ft", 23.5 L,1215 ,Bhanur,not approval by RERA
+883,3 BHK Apartment in Hallmark Tranquil,seller,Under Construction,"8,559 / sq ft", 1.7 Cr,1986 ,Manikonda,approval by RERA
+884,3 BHK Apartment in Shweta Aryan,seller,Ready to move,"7,142 / sq ft", 1.1 Cr,1540 ,Kompally,not approval by RERA
+885,2 BHK Apartment,seller,Under Construction,"4,757 / sq ft", 49 L,1030 ,Boduppal,not approval by RERA
+886,5 BHK Villa in Legend Marigold,seller,Ready to move,"9,862 / sq ft", 2.65 Cr,2687 ,Nallagandla Gachibowli,not approval by RERA
+887,2 BHK Apartment,seller,Under Construction,"3,400 / sq ft", 41.14 L,1210 ,Boduppal,not approval by RERA
+888,5 BHK Independent House,seller,Ready to move,"4,444 / sq ft", 1.6 Cr,3600 ,Bandlaguda Jagir,not approval by RERA
+889,3 BHK Apartment,seller,Under Construction,"1,739 / sq ft", 36 L,2070 ,Bhanur,not approval by RERA
+890,3 BHK Apartment in Prestige High Fields,seller,Ready to move,"8,897 / sq ft", 1.55 Cr,1742 ,Gachibowli,not approval by RERA
+891,3 BHK Independent House,seller,Ready to move,"6,969 / sq ft", 1.15 Cr,1650 ,Alwal,not approval by RERA
+892,3 BHK Apartment in Sai Priya Homes,seller,Ready to move,"3,181 / sq ft", 35 L,1100 ,Ramachandrapuram,not approval by RERA
+893,3 BHK Apartment,seller,Ready to move,"3,531 / sq ft", 50 L,1416 ,Mallampet,not approval by RERA
+894,2 BHK Apartment in AVN Residency,seller,Ready to move,"6,683 / sq ft", 80 L,1197 ,Kondapur,not approval by RERA
+895,2 BHK Apartment,seller,Under Construction,"1,904 / sq ft", 19.99 L,1050 ,Bhanur,not approval by RERA
+896,10 BHK Independent House,seller,Ready to move,"4,444 / sq ft", 2 Cr,4500 ,Banjara Hills,not approval by RERA
+897,3 BHK Apartment,seller,Ready to move,"5,393 / sq ft", 89 L,1650 ,Neknampur,not approval by RERA
+898,3 BHK Villa,seller,Under Construction,"4,772 / sq ft", 1.05 Cr,2200 ,Mokila,not approval by RERA
+899,2 BHK Apartment in Siri Dream Homes,seller,Ready to move,"6,571 / sq ft", 69 L,1050 ,Hanuman Nagar,not approval by RERA
+900,2 BHK Apartment in Aliens Elite,seller,Ready to move,"5,454 / sq ft", 60 L,1100 ,Miyapur,not approval by RERA
+901,3 BHK Apartment in Swaraj Homes Modern Enclave,seller,Ready to move,"13,043 / sq ft", 1.5 Cr,1150 ,Mehdipatnam,not approval by RERA
+902,2 BHK Apartment in Praneeth Pranav Flora,Praneeth,Under Construction,"4,298 / sq ft", 49.55 L,1153 ,Bahadurpally,approval by RERA
+903,2 BHK Apartment in Praneeth Pranav Flora,Praneeth,Under Construction,"4,298 / sq ft", 49.55 L,1153 ,Bahadurpally,approval by RERA
+904,2 BHK Apartment in Praneeth Pranav Flora,Praneeth,Under Construction,"4,298 / sq ft", 49.55 L,1153 ,Bahadurpally,approval by RERA
+905,2 BHK Apartment in Praneeth Pranav Flora,Praneeth,Under Construction,"4,298 / sq ft", 49.55 L,1153 ,Bahadurpally,approval by RERA
+906,2 BHK Apartment,seller,Ready to move,"6,521 / sq ft", 75 L,1150 ,Afzal Gunj,not approval by RERA
+907,3 BHK Independent House,seller,Ready to move,"15,312 / sq ft", 2.45 Cr,1600 ,Santoshnagar,not approval by RERA
+908,3 BHK Apartment in Aashray Aashray Anil Residency,seller,Ready to move,"9,768 / sq ft", 1.88 Cr,1930 ,East Marredpally,not approval by RERA
+909,2 BHK Apartment in  Vedavyasa Nilayam,seller,Ready to move,"6,951 / sq ft", 72.5 L,1043 ,Kothapet,not approval by RERA
+910,2 BHK Apartment,seller,Under Construction,"4,016 / sq ft", 49.99 L,1245 ,TurkaYamjal,not approval by RERA
+911,3 BHK Apartment,seller,Under Construction,"4,506 / sq ft", 68 L,1509 ,AS Rao Nagar,not approval by RERA
+912,3 BHK Apartment,seller,Ready to move,"6,137 / sq ft", 89 L,1450 ,Kondapur,not approval by RERA
+913,2 BHK Apartment,seller,Under Construction,"4,846 / sq ft", 55.97 L,1155 ,Gajularamaram,not approval by RERA
+914,2 BHK Apartment,seller,Under Construction,"2,083 / sq ft", 25 L,1200 ,Bhanur,not approval by RERA
+915,2 BHK Independent House,seller,Ready to move,"6,969 / sq ft", 1.15 Cr,1650 ,Alwal,not approval by RERA
+916,2 BHK Apartment in Parnika Elite Projects,seller,Under Construction,"6,800 / sq ft", 75.48 L,1110 ,Kothapet,approval by RERA
+917,2 BHK Apartment,seller,Ready to move,"4,000 / sq ft", 47 L,1175 ,Pragathi Nagar Kukatpally,not approval by RERA
+918,2 BHK Apartment,seller,Under Construction,"4,400 / sq ft", 55 L,1250 ,Aminpur,not approval by RERA
+919,2 BHK Apartment,seller,Ready to move,"5,909 / sq ft", 65 L,1100 ,West Marredpally,not approval by RERA
+920,2 BHK Apartment,seller,Ready to move,"5,500 / sq ft", 66 L,1200 ,Chandanagar,not approval by RERA
+921,3 BHK Apartment,seller,Ready to move,"5,172 / sq ft", 75 L,1450 ,Sri Nagar Colony,not approval by RERA
+922,4 BHK Independent House in Pragati NJR KLR Nagar,seller,Under Construction,"4,388 / sq ft", 79 L,1800 ,Medchal,approval by RERA
+923,2 BHK Apartment,seller,Ready to move,"4,500 / sq ft", 36 L,800 ,Hyder Nagar,not approval by RERA
+924,5 BHK Independent House,seller,Ready to move,"4,629 / sq ft", 2.49 Cr,5400 ,Jubilee Hills,not approval by RERA
+925,5 BHK Independent House,seller,Ready to move,"5,333 / sq ft", 1.6 Cr,3000 ,Gaddi Annaram,not approval by RERA
+926,2 BHK Apartment in Ramky Greenview Apartments,seller,Ready to move,"5,268 / sq ft", 54 L,1025 ,Maheshwaram,not approval by RERA
+927,3 BHK Apartment,seller,Ready to move,"4,480 / sq ft", 56 L,1250 ,Padmarao Nagar,not approval by RERA
+928,2 BHK Apartment in Reputed Builder Bhanu Township,seller,Ready to move,"5,678 / sq ft", 56.5 L,995 ,Miyapur,not approval by RERA
+929,10 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 2.5 Cr,5000 ,Bapu Nagar,not approval by RERA
+930,3 BHK Villa,seller,Ready to move,"5,125 / sq ft", 1.23 Cr,2400 ,Dammaiguda,not approval by RERA
+931,2 BHK Apartment,seller,Under Construction,"5,217 / sq ft", 60 L,1150 ,Saroornagar,not approval by RERA
+932,2 BHK Apartment in Om Omkar Heights,seller,Ready to move,"6,854 / sq ft", 85 L,1240 ,Padmarao Nagar,not approval by RERA
+933,3 BHK Apartment in Alekhya Palm Woods,seller,Ready to move,"10,946 / sq ft", 1.85 Cr,1690 ,Nanakramguda,not approval by RERA
+934,3 BHK Apartment in Sri Krishna Krishe Valley,seller,Ready to move,"7,900 / sq ft", 1.9 Cr,2414 ,Banjara Hills,not approval by RERA
+935,3 BHK Apartment,seller,Under Construction,"6,357 / sq ft", 89 L,1400 ,Kokapet,not approval by RERA
+936,2 BHK Apartment,seller,Ready to move,"3,500 / sq ft", 35 L,1000 ,Miyapur,not approval by RERA
+937,4 BHK Independent House,seller,Ready to move,"8,648 / sq ft", 1.6 Cr,1850 ,Ramanthapur,not approval by RERA
+938,2 BHK Apartment in Sri Ornate,seller,Under Construction,"3,000 / sq ft", 34.05 L,1135 ,Kollur,approval by RERA
+939,2 BHK Apartment,seller,Ready to move,"5,213 / sq ft", 54.99 L,1055 ,Hyder Nagar,not approval by RERA
+940,8 BHK Independent House,seller,Ready to move,"3,214 / sq ft", 2.25 Cr,7000 ,Nagaram,not approval by RERA
+941,8 BHK Independent House,seller,Ready to move,"3,214 / sq ft", 2.25 Cr,7000 ,Nagaram,not approval by RERA
+942,3 BHK Apartment,seller,Ready to move,"5,655 / sq ft", 82 L,1450 ,Miyapur,not approval by RERA
+943,3 BHK Apartment in Kamala Amulya Heights,seller,Ready to move,"5,555 / sq ft", 90 L,1620 ,Kushaiguda,not approval by RERA
+944,2 BHK Apartment,seller,Ready to move,"5,213 / sq ft", 54.99 L,1055 ,Hyder Nagar,not approval by RERA
+945,2 BHK Apartment in Satya Bhaskar Avenue,seller,Ready to move,"4,000 / sq ft", 48 L,1200 ,Madhura Nagar,not approval by RERA
+946,3 BHK Apartment,seller,Under Construction,"6,348 / sq ft", 1.13 Cr,1780 ,Kapra,not approval by RERA
+947,2 BHK Apartment,seller,Ready to move,"4,880 / sq ft", 57 L,1168 ,Mallapur,not approval by RERA
+948,3 BHK Apartment in SMR Vinay Iconia Phase 2,seller,Ready to move,"7,243 / sq ft", 1.7 Cr,2347 ,Serilingampally,not approval by RERA
+949,4 BHK Apartment in Perioneira Decena,seller,Ready to move,"5,681 / sq ft", 1.25 Cr,2200 ,Narsingi,not approval by RERA
+950,2 BHK Apartment,seller,Ready to move,"4,705 / sq ft", 48 L,1020 ,Mallapur,not approval by RERA
+951,3 BHK Villa,seller,Ready to move,"6,600 / sq ft", 1.65 Cr,2500 ,Kapra,not approval by RERA
+952,2 BHK Apartment in Reputed Builder Layakari Poorvi Residency,seller,Ready to move,"5,392 / sq ft", 55 L,1020 ,Ramachandra Puram,not approval by RERA
+953,2 BHK Apartment,seller,Under Construction,"2,434 / sq ft", 28 L,1150 ,Bhanur,not approval by RERA
+954,5 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 1.25 Cr,2500 ,Adibatla,not approval by RERA
+955,2 BHK Apartment,seller,Ready to move,"6,500 / sq ft", 65 L,1000 ,Boudhanagar Colony,not approval by RERA
+956,2 BHK Apartment in SNR The Elite,seller,Under Construction,"5,399 / sq ft", 69.65 L,1290 ,Gopanpally,approval by RERA
+957,2 BHK Apartment in Urbanrise Residences,seller,Under Construction,"5,732 / sq ft", 63 L,1099 ,Bachupally,approval by RERA
+958,2 BHK Apartment,seller,Ready to move,"5,384 / sq ft", 56 L,1040 ,Toli Chowki,not approval by RERA
+959,5 BHK Independent House,seller,Ready to move,"8,333 / sq ft", 5 Cr,6000 ,Mansanpally,not approval by RERA
+960,2 BHK Apartment,seller,Ready to move,"6,400 / sq ft", 80 L,1250 ,Manikonda,not approval by RERA
+961,2 BHK Apartment,seller,Ready to move,"4,888 / sq ft", 55 L,1125 ,Gajularamaram,not approval by RERA
+962,2 BHK Apartment,seller,Ready to move,"3,900 / sq ft", 39 L,1000 ,Old Malakpet,not approval by RERA
+963,5 BHK Independent House,seller,Ready to move,"5,000 / sq ft", 1.5 Cr,3000 ,Kapra,not approval by RERA
+964,3 BHK Apartment in Veekay The Communittee,seller,Under Construction,"5,625 / sq ft", 90 L,1600 ,Mokila,approval by RERA
+965,2 BHK Apartment,seller,Ready to move,"6,923 / sq ft", 90 L,1300 ,Sainikpuri,not approval by RERA
+966,2 BHK Apartment in Urbanrise On Cloud 33,seller,Under Construction,"5,300 / sq ft", 58.24 L,1099 ,Bachupally,approval by RERA
+967,2 BHK Apartment in Giridhari Avighna,seller,Ready to move,"6,666 / sq ft", 80 L,1200 ,Bandlaguda Jagir,not approval by RERA
+968,2 BHK Apartment in Jain Carlton Creek,seller,Ready to move,"7,481 / sq ft", 79 L,1056 ,Manikonda,not approval by RERA
+969,3 BHK Apartment,seller,Ready to move,"6,666 / sq ft", 80 L,1200 ,Dilsukh Nagar,not approval by RERA
+970,3 BHK Apartment in SST Jewel Crest,seller,Ready to move,"7,500 / sq ft", 1.27 Cr,1700 ,Shaikpet,not approval by RERA
+971,3 BHK Apartment in Modi Sterling Heights,seller,Ready to move,"5,108 / sq ft", 80 L,1566 ,Gundlapochampally,not approval by RERA
+972,4 BHK Independent House,seller,Ready to move,"5,535 / sq ft", 1.55 Cr,2800 ,Kompally,not approval by RERA
+973,3 BHK Apartment in Muppa Aishwarya Condos,seller,Ready to move,"6,666 / sq ft", 1.1 Cr,1650 ,Narsingi,not approval by RERA
+974,3 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,654 / sq ft", 2.45 Cr,2300 ,Shaikpet,not approval by RERA
+975,4 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,566 / sq ft", 3.13 Cr,2965 ,Shaikpet,not approval by RERA
+976,3 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"9,855 / sq ft", 2.21 Cr,2245 ,Shaikpet,not approval by RERA
+977,4 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,567 / sq ft", 3.12 Cr,2960 ,Shaikpet,not approval by RERA
+978,3 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,708 / sq ft", 2.42 Cr,2260 ,Shaikpet,not approval by RERA
+979,3 BHK Apartment in Salarpuria Magnus,Salarpuria Sattva,Ready to move,"10,658 / sq ft", 2.42 Cr,2275 ,Shaikpet,not approval by RERA
