@@ -91,7 +91,7 @@ When contributing, please follow the existing code style and ensure that your ch
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which allows you to use, modify, and distribute the code for both personal and commercial purposes. See the `LICENSE` file for more details.
+This project is licensed under the [Apache License 2.0](LICENSE), which allows you to use, modify, and distribute the code for both personal and commercial purposes. See the `LICENSE` file for more details.
 
 Happy web scraping and real estate data analysis!
 
